@@ -3,29 +3,35 @@
 A curated list of awesome VimL frameworks, libraries and software.
 
 * [tpope/timl](https://github.com/tpope/timl) - Clojure like language which compiles down to VimL
+* [tlhunter/vimrc](https://github.com/tlhunter/vimrc) - VimL: Opinionated VIM Configuration
 * [spicycode/Vimlander-2-The-Quickening](https://github.com/spicycode/Vimlander-2-The-Quickening) - A cataclysm has occured
 * [ynkdir/vim-vimlparser](https://github.com/ynkdir/vim-vimlparser) - VimL parser
 * [dahu/vimple](https://github.com/dahu/vimple) - Develop VimL
+* [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
 * [c9s/vim-dev-plugin](https://github.com/c9s/vim-dev-plugin) - A Vim plugin for developing VimL.
+* [LucHermitte/lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) - Library of VimL functions
 * [dahu/LearnVimL](https://github.com/dahu/LearnVimL) - A suggested path for learning Vim's scripting language, VimL
 * [rizzatti/funcoo.vim](https://github.com/rizzatti/funcoo.vim) - Functional Object Oriented VimL
 * [c9s/vimomni.vim](https://github.com/c9s/vimomni.vim) - a better completion for VimL.
 * [torbiak/probe](https://github.com/torbiak/probe) - Pure VimL fuzzy file finder for vim.
-* [LucHermitte/lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) - Library of VimL functions
+* [dhruvasagar/vim-testify](https://github.com/dhruvasagar/vim-testify) - Simplified viml testing
 * [dahu/VimLocalMacros](https://github.com/dahu/VimLocalMacros) - Store and execute macros in current file
-* [dajero/VimLab](https://github.com/dajero/VimLab) - VimLab is a vim plugin which replicates MATLAB's support for code sections.
 * [dahu/VimLint](https://github.com/dahu/VimLint) - A correctness and sanity checker of vim configuration.
+* [dajero/VimLab](https://github.com/dajero/VimLab) - VimLab is a vim plugin which replicates MATLAB's support for code sections.
+* [dahu/EditorConfig](https://github.com/dahu/EditorConfig) - An implementation of http://editorconfig.org/ in 100% VimL
 * [sgur/vim-gf-autoload](https://github.com/sgur/vim-gf-autoload) - Go to the autoload function definition in VimL.
+* [MaxMEllon/vim-tmng](https://github.com/MaxMEllon/vim-tmng) - :flashlight: [VimL] tmng format to highlight for vim
 * [Raimondi/VimLTextObjects](https://github.com/Raimondi/VimLTextObjects) - Adds new text objects for VimL (vimscript) files.
+* [vim-scripts/vim-vimlparser](https://github.com/vim-scripts/vim-vimlparser) - VimL parser
 * [vim-scripts/vim-diff](https://github.com/vim-scripts/vim-diff) - diff written in VimL.
 * [greg0ire/more-instantly-better-vim](https://github.com/greg0ire/more-instantly-better-vim) - A fork of Damien Conway’s collection of VimL hacks and plugins
-* [dahu/vim-type-datetime](https://github.com/dahu/vim-type-datetime) - Date/Time Objects for VimL
 * [dahu/vimpeg-parser-viml](https://github.com/dahu/vimpeg-parser-viml) - Vimpeg Parser for the VimL (vimscript) Language
+* [dahu/vim-type-datetime](https://github.com/dahu/vim-type-datetime) - Date/Time Objects for VimL
 * [bogdan-dumitru/vimlight](https://github.com/bogdan-dumitru/vimlight) - A lighter vim config, similar in structure to spf13
 * [vim-scripts/vimomni](https://github.com/vim-scripts/vimomni) - omni completion for VimL
 * [tetsuwo/unchi.vim](https://github.com/tetsuwo/unchi.vim) - VimL test
+* [teh-cmc/vimmortal](https://github.com/teh-cmc/vimmortal) - [VimL] vimmortal - teh vim conf that makes you invincible.
 * [shumphrey/Vim-InPaste-Plugin](https://github.com/shumphrey/Vim-InPaste-Plugin) - Some VimL that logs in to a website and posts the selected text
-* [Raimondi/reggie_viml](https://github.com/Raimondi/reggie_viml) - Vim Text objects for VimL based on the Reggie library.
 * [pneu/copytask](https://github.com/pneu/copytask) - copy files in VimL
 * [pmbauer/vimlein](https://github.com/pmbauer/vimlein) - lein plugin for vim, supports interactive mode
 * [kopischke/vim-mklib](https://github.com/kopischke/vim-mklib) - Another VimL non-standard library
@@ -34,13 +40,15 @@ A curated list of awesome VimL frameworks, libraries and software.
 * [intuited/lh-vim-lib](https://github.com/intuited/lh-vim-lib) - Mirror of Luc Hermitte's lh-vim-lib VimL library.
 * [dahu/VimaholicsAnonymous](https://github.com/dahu/VimaholicsAnonymous) - Anonymous functions for VimL
 * [colczak/vimlib](https://github.com/colczak/vimlib) - Collection of custom vim functions
-* [ChuckO/vimlib](https://github.com/ChuckO/vimlib) - Chuck's Vim Funcitions
 * [chan/vios](https://github.com/chan/vios) - Experimental scripts in vimL.
 * [bencrowder/vimlist](https://github.com/bencrowder/vimlist) - A small Vim list manager plugin.
-* [Vincent4307/vimlatex_win32](https://github.com/Vincent4307/vimlatex_win32) - 修改了vimlatexsuit的部分配置，适用于windows 7 32系统
-* [Vincent4307/Vimlatex_suit](https://github.com/Vincent4307/Vimlatex_suit) - My personal vim-latex-suit
-* [vim-scripts/vim-vimlparser](https://github.com/vim-scripts/vim-vimlparser) - VimL parser
+* [Raimondi/reggie_viml](https://github.com/Raimondi/reggie_viml) - Vim Text objects for VimL based on the Reggie library.
+* [ChuckO/vimlib](https://github.com/ChuckO/vimlib) - Chuck's Vim Funcitions
+* [zarak/viml](https://github.com/zarak/viml) - Code files from the book "The VimL Primer" by Benjamin Klein
+* [tsu-complete/vim-vimvar](https://github.com/tsu-complete/vim-vimvar) - reliable/compatible var storage for viml
+* [tsu-complete/vim-logger](https://github.com/tsu-complete/vim-logger) - simple script for trace logging in viml
 * [svermeulen/vim-assert](https://github.com/svermeulen/vim-assert) - A simple assert command for VimL
+* [still-dreaming-1/vim-elhiv](https://github.com/still-dreaming-1/vim-elhiv) - VimL library
 * [sgur/vim-paving](https://github.com/sgur/vim-paving) - Vim plugin loader generator written in VimL
 * [rdallman/vim-json](https://github.com/rdallman/vim-json) - JSON parser / stringifier / pretty printer for VimL
 * [pravj/VimL-exercise](https://github.com/pravj/VimL-exercise) - Exercises solution for Book 'Learn Vimscript the Hard Way'
@@ -59,8 +67,13 @@ A curated list of awesome VimL frameworks, libraries and software.
 * [dahu/tiktok](https://github.com/dahu/tiktok) - TikTok provides a simple asynchronous timer object for VimL.
 * [cagatay/deasciify.vim](https://github.com/cagatay/deasciify.vim) - VimL port of Deasciifier
 * [augustomatheuss/vimlink](https://github.com/augustomatheuss/vimlink) - My vim
-* [ARivottiC/.vim](https://github.com/ARivottiC/.vim) - My VimL setup
+* [ahsar/.vim](https://github.com/ahsar/.vim) - viml
+* [afbroman/mpc_plugin](https://github.com/afbroman/mpc_plugin) - Following the code from The VimL Primer by Benjamin Klein
+* [WolfgangMehner/vim-support](https://github.com/WolfgangMehner/vim-support) - Edit VimL scripts in Vim/gVim. Insert code snippets, quickly comment the code and look up help.
+* [Vincent4307/vimlatex_win32](https://github.com/Vincent4307/vimlatex_win32) - 修改了vimlatexsuit的部分配置，适用于windows 7 32系统
 * [ARivottiC/rivotti.vim](https://github.com/ARivottiC/rivotti.vim) - VimL plugin with my personal configuration intended to be used as a Pathogen's plugin.
+* [ARivottiC/.vim](https://github.com/ARivottiC/.vim) - My VimL setup
+* [Vincent4307/Vimlatex_suit](https://github.com/Vincent4307/Vimlatex_suit) - My personal vim-latex-suit
 * [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and agility. Consider helping sustain Neovim development!
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.osx — sensible hacker defaults for OS X
 * [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
@@ -299,7 +312,6 @@ A curated list of awesome VimL frameworks, libraries and software.
 * [Blackrush/vim-gocode](https://github.com/Blackrush/vim-gocode) - A Go bundle for Vundle or Pathogen
 * [jeetsukumaran/vim-buffergator](https://github.com/jeetsukumaran/vim-buffergator) - Vim plugin to list, select and switch between buffers.
 * [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
-* [tlhunter/vimrc](https://github.com/tlhunter/vimrc) - My personal VIM configuration
 * [strangeloop/clojurewest2012-slides](https://github.com/strangeloop/clojurewest2012-slides) - Slides from Clojure/West 2012
 * [junegunn/vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard) - :octocat: Browse GitHub events in Vim
 * [eagletmt/neco-ghc](https://github.com/eagletmt/neco-ghc) - A completion plugin for Haskell, using ghc-mod
