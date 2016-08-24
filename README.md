@@ -13,8 +13,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [LucHermitte/lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) - Library of VimL functions
 * [dahu/LearnVimL](https://github.com/dahu/LearnVimL) - A suggested path for learning Vim's scripting language, VimL
 * [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) - :flashlight: [VimL] React JSX syntax pretty highlighting for vim.
-* [torbiak/probe](https://github.com/torbiak/probe) - Pure VimL fuzzy file finder for vim.
 * [rizzatti/funcoo.vim](https://github.com/rizzatti/funcoo.vim) - Functional Object Oriented VimL
+* [torbiak/probe](https://github.com/torbiak/probe) - Pure VimL fuzzy file finder for vim.
 * [c9s/vimomni.vim](https://github.com/c9s/vimomni.vim) - a better completion for VimL.
 * [dhruvasagar/vim-testify](https://github.com/dhruvasagar/vim-testify) - Simplified viml testing
 * [dahu/VimLocalMacros](https://github.com/dahu/VimLocalMacros) - Store and execute macros in current file
@@ -67,6 +67,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [jdelkins/vim-coll](https://github.com/jdelkins/vim-coll) - A simple functional-style library for manipulating collections (lists and dicts) in VimL
 * [jameslinjl/dotfiles](https://github.com/jameslinjl/dotfiles) - Shell, VimL - Some dotfiles that have settings for tools like bash, vim, etc.
 * [doniecm/vimlinux](https://github.com/doniecm/vimlinux) - my vim files
+* [ddzxchyy/vimLearn](https://github.com/ddzxchyy/vimLearn) - vim学习
 * [dbow/vimlol](https://github.com/dbow/vimlol) - my vim setup
 * [daogurtsov/VimLinux](https://github.com/daogurtsov/VimLinux) - vim on linux
 * [dahu/vim-u-test](https://github.com/dahu/vim-u-test) - Micro unit-testing for single scripts in VimL
