@@ -10,12 +10,12 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [dahu/vimple](https://github.com/dahu/vimple) - Develop VimL
 * [haya14busa/go-vimlparser](https://github.com/haya14busa/go-vimlparser) - :zap: Vim Script Parser written in Go
 * [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
-* [LucHermitte/lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) - Library of VimL functions
 * [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) - :flashlight: [VimL] React JSX syntax pretty highlighting for vim.
+* [LucHermitte/lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) - Library of VimL functions
 * [c9s/vim-dev-plugin](https://github.com/c9s/vim-dev-plugin) - A Vim plugin for developing VimL.
 * [dahu/LearnVimL](https://github.com/dahu/LearnVimL) - A suggested path for learning Vim's scripting language, VimL
-* [rizzatti/funcoo.vim](https://github.com/rizzatti/funcoo.vim) - Functional Object Oriented VimL
 * [torbiak/probe](https://github.com/torbiak/probe) - Pure VimL fuzzy file finder for vim.
+* [rizzatti/funcoo.vim](https://github.com/rizzatti/funcoo.vim) - Functional Object Oriented VimL
 * [c9s/vimomni.vim](https://github.com/c9s/vimomni.vim) - a better completion for VimL.
 * [lambdalisue/vim-backslash](https://github.com/lambdalisue/vim-backslash) - Automatically insert a leading slash in VimL
 * [dhruvasagar/vim-testify](https://github.com/dhruvasagar/vim-testify) - Simplified viml testing
@@ -40,7 +40,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [Raimondi/reggie_viml](https://github.com/Raimondi/reggie_viml) - Vim Text objects for VimL based on the Reggie library.
 * [pneu/copytask](https://github.com/pneu/copytask) - copy files in VimL
 * [pmbauer/vimlein](https://github.com/pmbauer/vimlein) - lein plugin for vim, supports interactive mode
-* [leycec/vimrc](https://github.com/leycec/vimrc) - Vim dotfiles. Now with 43% more crustaceous VimL.
 * [kopischke/vim-mklib](https://github.com/kopischke/vim-mklib) - Another VimL non-standard library
 * [juhasz/vimLaTeX](https://github.com/juhasz/vimLaTeX) - An up to date version of vim-latex.
 * [intuited/lh-vim-ut](https://github.com/intuited/lh-vim-ut) - Mirror of Luc Hermitte's lh-vim-UT VimL unit testing addon.
@@ -66,6 +65,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [lorry-lee/vimlorry](https://github.com/lorry-lee/vimlorry) - my vim settings
 * [lifecrisis/vim-playground](https://github.com/lifecrisis/vim-playground) - A playground repository for exploring Vim and VimL.
 * [liangwang/vim-addon-vimlatex](https://github.com/liangwang/vim-addon-vimlatex) - Vim-LaTeX
+* [leycec/vimrc](https://github.com/leycec/vimrc) - Vim dotfiles. Now with 43% more crustaceous VimL.
 * [kyuhi/vim-vimlcmpl](https://github.com/kyuhi/vim-vimlcmpl) - Omni function for VIM scripts.
 * [k28/dotfiles](https://github.com/k28/dotfiles) - VimL
 * [jordwalke/VimLastTab](https://github.com/jordwalke/VimLastTab) - Switch to the most recently used Tab
