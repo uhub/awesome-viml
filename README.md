@@ -2,11 +2,14 @@
 
 A curated list of awesome Viml frameworks, libraries and software.
 
+* [vim-chat/vim-chat](https://github.com/vim-chat/vim-chat) - Chatting plugin for neovim and vim
+* [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - Like spacemacs, but for vim
 * [tpope/timl](https://github.com/tpope/timl) - Clojure like language which compiles down to VimL
 * [tlhunter/vimrc](https://github.com/tlhunter/vimrc) - VimL: Opinionated VIM Configuration
 * [spicycode/Vimlander-2-The-Quickening](https://github.com/spicycode/Vimlander-2-The-Quickening) - A cataclysm has occured
 * [ynkdir/vim-vimlparser](https://github.com/ynkdir/vim-vimlparser) - VimL parser
 * [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) - Another github v3 api implemented in viml
+* [wsdjeg/DotFiles](https://github.com/wsdjeg/DotFiles) - Archlinux Dotfiles,(vimrc,init.vim,i3,irssi,weechat etc.)
 * [dahu/vimple](https://github.com/dahu/vimple) - Develop VimL
 * [haya14busa/go-vimlparser](https://github.com/haya14busa/go-vimlparser) - :zap: Vim Script Parser written in Go
 * [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
