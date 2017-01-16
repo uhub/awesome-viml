@@ -2,18 +2,15 @@
 
 A curated list of awesome Viml frameworks, libraries and software.
 
-* [vim-chat/vim-chat](https://github.com/vim-chat/vim-chat) - Chatting plugin for neovim and vim
-* [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - Like spacemacs, but for vim
 * [tpope/timl](https://github.com/tpope/timl) - Clojure like language which compiles down to VimL
 * [tlhunter/vimrc](https://github.com/tlhunter/vimrc) - VimL: Opinionated VIM Configuration
 * [spicycode/Vimlander-2-The-Quickening](https://github.com/spicycode/Vimlander-2-The-Quickening) - A cataclysm has occured
 * [ynkdir/vim-vimlparser](https://github.com/ynkdir/vim-vimlparser) - VimL parser
 * [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) - Another github v3 api implemented in viml
-* [wsdjeg/DotFiles](https://github.com/wsdjeg/DotFiles) - Archlinux Dotfiles,(vimrc,init.vim,i3,irssi,weechat etc.)
 * [dahu/vimple](https://github.com/dahu/vimple) - Develop VimL
 * [haya14busa/go-vimlparser](https://github.com/haya14busa/go-vimlparser) - :zap: Vim Script Parser written in Go
-* [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
 * [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) - :flashlight: [VimL] React JSX syntax pretty highlighting for vim.
+* [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
 * [LucHermitte/lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) - Library of VimL functions
 * [c9s/vim-dev-plugin](https://github.com/c9s/vim-dev-plugin) - A Vim plugin for developing VimL.
 * [dahu/LearnVimL](https://github.com/dahu/LearnVimL) - A suggested path for learning Vim's scripting language, VimL
@@ -43,6 +40,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [Raimondi/reggie_viml](https://github.com/Raimondi/reggie_viml) - Vim Text objects for VimL based on the Reggie library.
 * [pneu/copytask](https://github.com/pneu/copytask) - copy files in VimL
 * [pmbauer/vimlein](https://github.com/pmbauer/vimlein) - lein plugin for vim, supports interactive mode
+* [Lucasosf/vimlociraptor](https://github.com/Lucasosf/vimlociraptor) - My vim configuration to be a [vim]lociraptor.
 * [kopischke/vim-mklib](https://github.com/kopischke/vim-mklib) - Another VimL non-standard library
 * [juhasz/vimLaTeX](https://github.com/juhasz/vimLaTeX) - An up to date version of vim-latex.
 * [intuited/lh-vim-ut](https://github.com/intuited/lh-vim-ut) - Mirror of Luc Hermitte's lh-vim-UT VimL unit testing addon.
@@ -54,6 +52,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [zarak/viml](https://github.com/zarak/viml) - Code files from the book "The VimL Primer" by Benjamin Klein
 * [WolfgangMehner/vim-support](https://github.com/WolfgangMehner/vim-support) - Edit VimL scripts in Vim/gVim. Insert code snippets, quickly comment the code and look up help.
 * [Vincent4307/vimlatex_win32](https://github.com/Vincent4307/vimlatex_win32) - 修改了vimlatexsuit的部分配置，适用于windows 7 32系统
+* [UserXGnu/VimLikeCIDE](https://github.com/UserXGnu/VimLikeCIDE) - Vim config files to provide a behavior of an IDE for C programming language.
 * [tsu-complete/vim-vimvar](https://github.com/tsu-complete/vim-vimvar) - reliable/compatible var storage for viml
 * [tsu-complete/vim-logger](https://github.com/tsu-complete/vim-logger) - simple script for trace logging in viml
 * [svermeulen/vim-assert](https://github.com/svermeulen/vim-assert) - A simple assert command for VimL
@@ -64,7 +63,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [parasite/vimlatexmacros](https://github.com/parasite/vimlatexmacros) - Borrowed parts from vim-latex
 * [nathanisaac-s/vimlife_ansible](https://github.com/nathanisaac-s/vimlife_ansible) - it's got some vim in it.
 * [nateburgers/Parsnips](https://github.com/nateburgers/Parsnips) - VimL Snippets Library
-* [Lucasosf/vimlociraptor](https://github.com/Lucasosf/vimlociraptor) - My vim configuration to be a [vim]lociraptor.
 * [lorry-lee/vimlorry](https://github.com/lorry-lee/vimlorry) - my vim settings
 * [lifecrisis/vim-playground](https://github.com/lifecrisis/vim-playground) - A playground repository for exploring Vim and VimL.
 * [liangwang/vim-addon-vimlatex](https://github.com/liangwang/vim-addon-vimlatex) - Vim-LaTeX
@@ -87,6 +85,9 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [ARivottiC/rivotti.vim](https://github.com/ARivottiC/rivotti.vim) - VimL plugin with my personal configuration intended to be used as a Pathogen's plugin.
 * [ahsar/.vim](https://github.com/ahsar/.vim) - viml
 * [afbroman/mpc_plugin](https://github.com/afbroman/mpc_plugin) - Following the code from The VimL Primer by Benjamin Klein
+* [vim-chat/vim-chat](https://github.com/vim-chat/vim-chat) - Chatting plugin for neovim and vim
+* [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - Like spacemacs, but for vim
+* [wsdjeg/DotFiles](https://github.com/wsdjeg/DotFiles) - Archlinux Dotfiles,(vimrc,init.vim,i3,irssi,weechat etc.)
 * [wsdjeg/GitHub-api.vim](https://github.com/wsdjeg/GitHub-api.vim) - Another github v3 api implemented in viml
 * [dajero/VimLab](https://github.com/dajero/VimLab) - VimLab is a vim plugin which replicates MATLAB's support for code sections.
 * [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and agility. Consider helping sustain Neovim development!
