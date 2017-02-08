@@ -11,14 +11,16 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [haya14busa/go-vimlparser](https://github.com/haya14busa/go-vimlparser) - :zap: Vim Script Parser written in Go
 * [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) - :flashlight: [VimL] React JSX syntax pretty highlighting for vim.
 * [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
+* [mhinz/vim-lookup](https://github.com/mhinz/vim-lookup) - Jump to the definition of variables or functions in VimL code.
 * [LucHermitte/lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) - Library of VimL functions
 * [c9s/vim-dev-plugin](https://github.com/c9s/vim-dev-plugin) - A Vim plugin for developing VimL.
 * [dahu/LearnVimL](https://github.com/dahu/LearnVimL) - A suggested path for learning Vim's scripting language, VimL
 * [torbiak/probe](https://github.com/torbiak/probe) - Pure VimL fuzzy file finder for vim.
 * [rizzatti/funcoo.vim](https://github.com/rizzatti/funcoo.vim) - Functional Object Oriented VimL
+* [tweekmonster/exception.vim](https://github.com/tweekmonster/exception.vim) - Vim plugin for tracing exceptions thrown by VimL scripts.
 * [c9s/vimomni.vim](https://github.com/c9s/vimomni.vim) - a better completion for VimL.
-* [lambdalisue/vim-backslash](https://github.com/lambdalisue/vim-backslash) - Automatically insert a leading slash in VimL
 * [dhruvasagar/vim-testify](https://github.com/dhruvasagar/vim-testify) - Simplified viml testing
+* [lambdalisue/vim-backslash](https://github.com/lambdalisue/vim-backslash) - Automatically insert a leading slash in VimL
 * [dahu/VimLocalMacros](https://github.com/dahu/VimLocalMacros) - Store and execute macros in current file
 * [dahu/VimLint](https://github.com/dahu/VimLint) - A correctness and sanity checker of vim configuration.
 * [dahu/EditorConfig](https://github.com/dahu/EditorConfig) - An implementation of http://editorconfig.org/ in 100% VimL
@@ -38,7 +40,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [still-dreaming-1/vim-elhiv](https://github.com/still-dreaming-1/vim-elhiv) - VimL library
 * [shumphrey/Vim-InPaste-Plugin](https://github.com/shumphrey/Vim-InPaste-Plugin) - Some VimL that logs in to a website and posts the selected text
 * [Raimondi/reggie_viml](https://github.com/Raimondi/reggie_viml) - Vim Text objects for VimL based on the Reggie library.
-* [pneu/copytask](https://github.com/pneu/copytask) - copy files in VimL
 * [pmbauer/vimlein](https://github.com/pmbauer/vimlein) - lein plugin for vim, supports interactive mode
 * [Lucasosf/vimlociraptor](https://github.com/Lucasosf/vimlociraptor) - My vim configuration to be a [vim]lociraptor.
 * [kopischke/vim-mklib](https://github.com/kopischke/vim-mklib) - Another VimL non-standard library
@@ -60,6 +61,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [sgur/vim-paving](https://github.com/sgur/vim-paving) - Vim plugin loader generator written in VimL
 * [rdallman/vim-json](https://github.com/rdallman/vim-json) - JSON parser / stringifier / pretty printer for VimL
 * [pravj/VimL-exercise](https://github.com/pravj/VimL-exercise) - Exercises solution for Book 'Learn Vimscript the Hard Way'
+* [pneu/copytask](https://github.com/pneu/copytask) - copy files in VimL
 * [parasite/vimlatexmacros](https://github.com/parasite/vimlatexmacros) - Borrowed parts from vim-latex
 * [nathanisaac-s/vimlife_ansible](https://github.com/nathanisaac-s/vimlife_ansible) - it's got some vim in it.
 * [nateburgers/Parsnips](https://github.com/nateburgers/Parsnips) - VimL Snippets Library
