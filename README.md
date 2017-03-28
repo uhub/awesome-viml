@@ -104,6 +104,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [bogdan-dumitru/vimlight](https://github.com/bogdan-dumitru/vimlight) - A lighter vim config, similar in structure to spf13
 * [Alok/neovim](https://github.com/Alok/neovim) - My (neo)vim config. I've replaced vim with it and I'm very satisfied so far.
 * [vim-scripts/vimomni](https://github.com/vim-scripts/vimomni) - omni completion for VimL
+* [tversteeg/dotfiles](https://github.com/tversteeg/dotfiles) - Configuration files
 * [tetsuwo/unchi.vim](https://github.com/tetsuwo/unchi.vim) - VimL test
 * [still-dreaming-1/vim-elhiv](https://github.com/still-dreaming-1/vim-elhiv) - VimL library
 * [shumphrey/Vim-InPaste-Plugin](https://github.com/shumphrey/Vim-InPaste-Plugin) - Some VimL that logs in to a website and posts the selected text
@@ -115,10 +116,10 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [Lucasosf/vimlociraptor](https://github.com/Lucasosf/vimlociraptor) - My vim configuration to be a [vim]lociraptor.
 * [kopischke/vim-mklib](https://github.com/kopischke/vim-mklib) - Another VimL non-standard library
 * [juhasz/vimLaTeX](https://github.com/juhasz/vimLaTeX) - An up to date version of vim-latex.
-* [jacks0n/dotfiles](https://github.com/jacks0n/dotfiles) - My dotfiles
 * [intuited/lh-vim-ut](https://github.com/intuited/lh-vim-ut) - Mirror of Luc Hermitte's lh-vim-UT VimL unit testing addon.
 * [intuited/lh-vim-lib](https://github.com/intuited/lh-vim-lib) - Mirror of Luc Hermitte's lh-vim-lib VimL library.
 * [dylanaraps/pascal_lint.nvim](https://github.com/dylanaraps/pascal_lint.nvim) - 🐆 Show fpc compiler output in a neovim split.
+* [DavidCain/vimfiles](https://github.com/DavidCain/vimfiles) - Vim plugins, runtime files, and configuration files
 * [dahu/VimaholicsAnonymous](https://github.com/dahu/VimaholicsAnonymous) - Anonymous functions for VimL
 * [colczak/vimlib](https://github.com/colczak/vimlib) - Collection of custom vim functions
 * [ChuckO/vimlib](https://github.com/ChuckO/vimlib) - Chuck's Vim Funcitions
@@ -161,6 +162,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [jimzhan/.vim](https://github.com/jimzhan/.vim) - vim settings
 * [jdelkins/vim-coll](https://github.com/jdelkins/vim-coll) - A simple functional-style library for manipulating collections (lists and dicts) in VimL
 * [jameslinjl/dotfiles](https://github.com/jameslinjl/dotfiles) - Shell, VimL - Some dotfiles that have settings for tools like bash, vim, etc.
+* [jakalada/vim-dotfiles](https://github.com/jakalada/vim-dotfiles) - My Vim Dotfiles
 * [jacquesrott/dotvim](https://github.com/jacquesrott/dotvim) - Personal .vim folder
 * [iferminm/vim-config](https://github.com/iferminm/vim-config) - My entire vim configuration, now I can take it anywhere! :D
 * [huawenyu/vimlogger](https://github.com/huawenyu/vimlogger) - Trace logging in viml
@@ -183,6 +185,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [ahsar/.vim](https://github.com/ahsar/.vim) - viml
 * [afbroman/mpc_plugin](https://github.com/afbroman/mpc_plugin) - Following the code from The VimL Primer by Benjamin Klein
 * [AChris07/vim-config](https://github.com/AChris07/vim-config) - Just a repository with my VIM configuration file and plugins, for others to use and for me to clone on new computers.
+* [jacks0n/dotfiles](https://github.com/jacks0n/dotfiles) - My dotfiles
 * [vim-chat/vim-chat](https://github.com/vim-chat/vim-chat) - Chatting plugin for neovim and vim
 * [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - Like spacemacs, but for vim
 * [wsdjeg/DotFiles](https://github.com/wsdjeg/DotFiles) - Archlinux Dotfiles,(vimrc,init.vim,i3,irssi,weechat etc.)
