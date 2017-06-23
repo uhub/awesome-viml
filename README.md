@@ -15,6 +15,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [isRuslan/vim-es6](https://github.com/isRuslan/vim-es6) - List of JavaScript ES6 snippets and syntax highlighting for vim.
 * [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files. The filename must have a ".gpg", ".pgp" or ".asc" suffix. When opening such a file the content is decrypted, when opening a new file the script will ask for the recipients of the encrypted file. The file content will be encrypted to all recipients before it is written. The script turns off viminfo, swapfile, and undofile to increase security.
 * [ajh17/VimCompletesMe](https://github.com/ajh17/VimCompletesMe) - You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
+* [tenfyzhong/CompleteParameter.vim](https://github.com/tenfyzhong/CompleteParameter.vim) - Complete parameter after select the completion.
+* [tenfyzhong/golint-fixer.vim](https://github.com/tenfyzhong/golint-fixer.vim) - A vim tool for fix goling warnings, which generate by vim-go or ale.
 * [tlhunter/vimrc](https://github.com/tlhunter/vimrc) - VimL: Opinionated VIM Configuration
 * [ajh17/Spacegray.vim](https://github.com/ajh17/Spacegray.vim) - A Vim color scheme loosely based on the Spacegray Xcode theme.
 * [keith/investigate.vim](https://github.com/keith/investigate.vim) - A Vim plugin for looking up documentation
@@ -224,6 +226,10 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
 * [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 * [majutsushi/tagbar](https://github.com/majutsushi/tagbar) - Vim plugin that displays tags in a window, ordered by scope
+* [tenfyzhong/tagbar-makefile.vim](https://github.com/tenfyzhong/tagbar-makefile.vim) - makefile for tagbar
+* [tenfyzhong/tagbar-proto.vim](https://github.com/tenfyzhong/tagbar-proto.vim) - protobuf for tagbar
+* [tenfyzhong/tagbar-markdown.vim](https://github.com/tenfyzhong/tagbar-markdown.vim) - Markdown for tagbar
+* [tenfyzhong/vim-gencode-cpp](https://github.com/tenfyzhong/vim-gencode-cpp) - auto generate function definition or declaration for c++. 
 * [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 * [FredKSchott/CoVim](https://github.com/FredKSchott/CoVim) - Collaborative Editing for Vim
 * [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
