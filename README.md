@@ -29,9 +29,9 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [tikhomirov/vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
 * [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) - :herb: Another github v3 api implemented in viml
 * [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
-* [sbl/scvim](https://github.com/sbl/scvim) - vim plugin for supercollider
-* [ktonga/vim-follow-my-lead](https://github.com/ktonga/vim-follow-my-lead) - Vim plugin for showing all your <Leader> mappings in a readable table including the descriptions.
 * [vim-jp/vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) - VimL parser
+* [ktonga/vim-follow-my-lead](https://github.com/ktonga/vim-follow-my-lead) - Vim plugin for showing all your <Leader> mappings in a readable table including the descriptions.
+* [sbl/scvim](https://github.com/sbl/scvim) - vim plugin for supercollider
 * [spicycode/Vimlander-2-The-Quickening](https://github.com/spicycode/Vimlander-2-The-Quickening) - A cataclysm has occured
 * [ivalkeen/vim-ctrlp-tjump](https://github.com/ivalkeen/vim-ctrlp-tjump) - CtrlP extension for fuzzy-search in tag matches (:tjump replacement).
 * [bagrat/vim-workspace](https://github.com/bagrat/vim-workspace) - IDE-like Vim tabline
@@ -46,31 +46,31 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [takac/vim-spotifysearch](https://github.com/takac/vim-spotifysearch) - Search spotify in Vim and play songs.
 * [keith/tmux.vim](https://github.com/keith/tmux.vim) - .tmux.conf syntax highlighting
 * [c9s/hypergit.vim](https://github.com/c9s/hypergit.vim) - This git plugin provides many awesome features so that you don't need to type commands anymore..
+* [joom/vim-starter](https://github.com/joom/vim-starter) - Quick starter kit for Vim beginners.
 * [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
 * [mhinz/vim-lookup](https://github.com/mhinz/vim-lookup) - Jump to the definition of variables or functions in VimL code.
 * [powerman/vim-plugin-ruscmd](https://github.com/powerman/vim-plugin-ruscmd) - Vim plugin: support command mode in Russian keyboard layout
-* [joom/vim-starter](https://github.com/joom/vim-starter) - Quick starter kit for Vim beginners.
 * [briandoll/change-inside-surroundings.vim](https://github.com/briandoll/change-inside-surroundings.vim) - vim plugin to change the contents of the innermost 'surrounding'
 * [keith/rspec.vim](https://github.com/keith/rspec.vim) - Better rspec syntax highlighting for Vim
 * [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
 * [jalcine/vimrc](https://github.com/jalcine/vimrc) - :seat: Options for my preferred text editor.
 * [DataWraith/auto_mkdir](https://github.com/DataWraith/auto_mkdir) - Vim plugin that allows you to save files into directories that do not exist yet.
 * [dahlia/nvimrc](https://github.com/dahlia/nvimrc) - My Neovim configuration.  Supports Mac and Linux.
+* [djmoch/vim-makejob](https://github.com/djmoch/vim-makejob) - Minimal, asynchronous quickfix commands for Vim 8.0
 * [aserebryakov/filestyle](https://github.com/aserebryakov/filestyle) - filestyle is a Vim plugin that highlights unwanted whitespace and characters.
 * [salsifis/vim-transpose](https://github.com/salsifis/vim-transpose) - Vim plugin - Transpose matrices of text (swap lines with columns).
-* [djmoch/vim-makejob](https://github.com/djmoch/vim-makejob) - Minimal, asynchronous quickfix commands for Vim 8.0
 * [ajh17/vim-fist](https://github.com/ajh17/vim-fist) - Fast, lightweight and super awesome Gist support from...The Fist of Vim™!
 * [powerman/vim-plugin-autosess](https://github.com/powerman/vim-plugin-autosess) - Vim plugin: auto save/load sessions
+* [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 * [c9s/vim-dev-plugin](https://github.com/c9s/vim-dev-plugin) - A Vim plugin for developing VimL.
 * [tomtom/tskeleton_vim](https://github.com/tomtom/tskeleton_vim) - File Templates and Code Skeletons/Snippets for VIM
-* [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 * [kreskij/Repeatable.vim](https://github.com/kreskij/Repeatable.vim) - Create repeat.vim mappings with one simple "Repeatable" command
+* [Xuyuanp/vimrc](https://github.com/Xuyuanp/vimrc) - My vim config
 * [rbonvall/vim-textobj-latex](https://github.com/rbonvall/vim-textobj-latex) - Vim text objects for LaTeX code
 * [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) - :flashlight: [VimL] React JSX syntax pretty highlighting for vim.
 * [ynkdir/vim-vimlparser](https://github.com/ynkdir/vim-vimlparser) - VimL parser
 * [LucHermitte/lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) - Library of Vim functions
 * [dahu/LearnVimL](https://github.com/dahu/LearnVimL) - A suggested path for learning Vim's scripting language, VimL
-* [Xuyuanp/vimrc](https://github.com/Xuyuanp/vimrc) - My vim config
 * [torbiak/probe](https://github.com/torbiak/probe) - Pure VimL fuzzy file finder for vim.
 * [rizzatti/funcoo.vim](https://github.com/rizzatti/funcoo.vim) - Functional Object Oriented VimL
 * [LucHermitte/lh-brackets](https://github.com/LucHermitte/lh-brackets) - LH's bracketing system for vim
@@ -836,7 +836,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [vim-scripts/AutoClose](https://github.com/vim-scripts/AutoClose) - Inserts matching bracket, paren, brace or quote
 * [shykes/devbox](https://github.com/shykes/devbox) - Solomon's dev environment
 * [paradigm/SkyBison](https://github.com/paradigm/SkyBison) - Vim plugin to expedite use of cmdline commands
-* [evanmiller/nginx-vim-syntax](https://github.com/evanmiller/nginx-vim-syntax) - nginx vim syntax. Copied from http://www.vim.org/scripts/script.php?script_id=1886
 * [edgecase/vim-config](https://github.com/edgecase/vim-config) - This is the Vim configuration we use on pairing machines at EdgeCase, as well as many personal machines. It's pretty okay.
 * [ahw/vim-hooks](https://github.com/ahw/vim-hooks) - Easily hook shell scripts into Vim autocmd events.
 * [aereal/dotfiles](https://github.com/aereal/dotfiles) - My config files.
