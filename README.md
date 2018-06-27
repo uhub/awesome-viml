@@ -12,8 +12,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [tpope/timl](https://github.com/tpope/timl) - Clojure like language which compiles down to VimL
 * [keith/swift.vim](https://github.com/keith/swift.vim) - Vim runtime files for Swift
 * [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
-* [ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 * [ajh17/VimCompletesMe](https://github.com/ajh17/VimCompletesMe) - You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
+* [ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 * [isRuslan/vim-es6](https://github.com/isRuslan/vim-es6) - List of JavaScript ES6 snippets and syntax highlighting for vim.
 * [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files. The filename must have a ".gpg", ".pgp" or ".asc" suffix. When opening such a file the content is decrypted, when opening a new file the script will ask for the recipients of the encrypted file. The file content will be encrypted to all recipients before it is written. The script turns off viminfo, swapfile, and undofile to increase security.
 * [tlhunter/vimrc](https://github.com/tlhunter/vimrc) - VimL: Opinionated VIM Configuration
@@ -30,8 +30,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [tomtom/quickfixsigns_vim](https://github.com/tomtom/quickfixsigns_vim) - Mark quickfix & location list items with signs
 * [tikhomirov/vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
 * [bagrat/vim-workspace](https://github.com/bagrat/vim-workspace) - IDE-like Vim tabline
-* [tomtom/checksyntax_vim](https://github.com/tomtom/checksyntax_vim) - Check a file's syntax when saving a file (php, ruby, tex ...) with vim
 * [vim-jp/vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) - Vim script parser
+* [tomtom/checksyntax_vim](https://github.com/tomtom/checksyntax_vim) - Check a file's syntax when saving a file (php, ruby, tex ...) with vim
 * [ktonga/vim-follow-my-lead](https://github.com/ktonga/vim-follow-my-lead) - Vim plugin for showing all your <Leader> mappings in a readable table including the descriptions.
 * [sbl/scvim](https://github.com/sbl/scvim) - vim plugin for supercollider
 * [haya14busa/go-vimlparser](https://github.com/haya14busa/go-vimlparser) - :zap: Vim Script Parser written in Go
@@ -42,16 +42,16 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) - Easily locate the cursor after a search
 * [powerman/vim-plugin-viewdoc](https://github.com/powerman/vim-plugin-viewdoc) - Vim plugin: flexible viewer for any documentation
 * [mihaifm/bufstop](https://github.com/mihaifm/bufstop) - Fast and efficient buffer switching for Vim
+* [lymslive/vimllearn](https://github.com/lymslive/vimllearn) - A book for VimL Script language
 * [takac/vim-spotifysearch](https://github.com/takac/vim-spotifysearch) - Search spotify in Vim and play songs.
 * [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
-* [lymslive/vimllearn](https://github.com/lymslive/vimllearn) - A book for VimL Script language
+* [c9s/hypergit.vim](https://github.com/c9s/hypergit.vim) - This git plugin provides many awesome features so that you don't need to type commands anymore..
 * [keith/tmux.vim](https://github.com/keith/tmux.vim) - [DEPRECATED] .tmux.conf syntax highlighting
 * [dahu/vimple](https://github.com/dahu/vimple) - Develop VimL
 * [tomtom/viki_vim](https://github.com/tomtom/viki_vim) - A personal wiki for Vim
 * [joom/vim-starter](https://github.com/joom/vim-starter) - Quick starter kit for Vim beginners.
-* [c9s/hypergit.vim](https://github.com/c9s/hypergit.vim) - This git plugin provides many awesome features so that you don't need to type commands anymore..
 * [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
-* [adwpc/vim](https://github.com/adwpc/vim) - vim configuration for c/c++/golang/other coder，powerful and easy to use. VimL is the best language.
+* [adwpc/vim](https://github.com/adwpc/vim) - vim configuration for c/c++/golang/other coder，powerful and easy to use.
 * [mhinz/vim-lookup](https://github.com/mhinz/vim-lookup) - Jump to the definition of variables or functions in VimL code.
 * [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
 * [powerman/vim-plugin-ruscmd](https://github.com/powerman/vim-plugin-ruscmd) - Vim plugin: support command mode in Russian keyboard layout
@@ -64,10 +64,10 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [dahlia/nvimrc](https://github.com/dahlia/nvimrc) - My Neovim configuration.  Supports Mac and Linux.
 * [aserebryakov/filestyle](https://github.com/aserebryakov/filestyle) - filestyle is a Vim plugin that highlights unwanted whitespace and characters.
 * [ajh17/vim-fist](https://github.com/ajh17/vim-fist) - Fast, lightweight and super awesome Gist support from...The Fist of Vim™!
-* [Xuyuanp/vimrc](https://github.com/Xuyuanp/vimrc) - My vim config
-* [powerman/vim-plugin-autosess](https://github.com/powerman/vim-plugin-autosess) - Vim plugin: auto save/load sessions
 * [dansomething/vim-eclim](https://github.com/dansomething/vim-eclim) - Mirror of the VIM files from https://github.com/ervandew/eclim to support installation via various plugin managers.
+* [Xuyuanp/vimrc](https://github.com/Xuyuanp/vimrc) - My vim config
 * [c9s/vim-dev-plugin](https://github.com/c9s/vim-dev-plugin) - A Vim plugin for developing VimL.
+* [powerman/vim-plugin-autosess](https://github.com/powerman/vim-plugin-autosess) - Vim plugin: auto save/load sessions
 * [tomtom/tskeleton_vim](https://github.com/tomtom/tskeleton_vim) - File Templates and Code Skeletons/Snippets for VIM
 * [rbonvall/vim-textobj-latex](https://github.com/rbonvall/vim-textobj-latex) - Vim text objects for LaTeX code
 * [kreskij/Repeatable.vim](https://github.com/kreskij/Repeatable.vim) - Create repeat.vim mappings with one simple "Repeatable" command
@@ -111,7 +111,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [vim-scripts/vim-diff](https://github.com/vim-scripts/vim-diff) - diff written in VimL.
 * [teh-cmc/vimmortal](https://github.com/teh-cmc/vimmortal) - [VimL] vimmortal - teh vim conf that makes you invincible.
 * [msiedlarek/dotfiles](https://github.com/msiedlarek/dotfiles) - my .files
-* [mauroporrasp/dotfiles](https://github.com/mauroporrasp/dotfiles) - Cool configuration and plugins for Neovim, tmux and Git.
 * [ivikash/dotvim](https://github.com/ivikash/dotvim) - A vim config that helps me
 * [edvb/catium.vim](https://github.com/edvb/catium.vim) - catium.vim - Add an Element of Nyan Cat to Vim
 * [DDAZZA/dotfiles](https://github.com/DDAZZA/dotfiles) - My personal setup
