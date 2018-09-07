@@ -41,8 +41,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [lymslive/vimllearn](https://github.com/lymslive/vimllearn) - A book for VimL Script language
 * [EinfachToll/DidYouMean](https://github.com/EinfachToll/DidYouMean) - Vim plugin which asks for the right file to open
 * [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) - Easily locate the cursor after a search
-* [powerman/vim-plugin-viewdoc](https://github.com/powerman/vim-plugin-viewdoc) - Vim plugin: flexible viewer for any documentation
 * [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
+* [powerman/vim-plugin-viewdoc](https://github.com/powerman/vim-plugin-viewdoc) - Vim plugin: flexible viewer for any documentation
 * [takac/vim-spotifysearch](https://github.com/takac/vim-spotifysearch) - Search spotify in Vim and play songs.
 * [mihaifm/bufstop](https://github.com/mihaifm/bufstop) - Fast and efficient buffer switching for Vim
 * [c9s/hypergit.vim](https://github.com/c9s/hypergit.vim) - This git plugin provides many awesome features so that you don't need to type commands anymore..
@@ -50,7 +50,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [tomtom/viki_vim](https://github.com/tomtom/viki_vim) - A personal wiki for Vim
 * [joom/vim-starter](https://github.com/joom/vim-starter) - Quick starter kit for Vim beginners.
 * [dahu/vimple](https://github.com/dahu/vimple) - Develop VimL
-* [adwpc/vim](https://github.com/adwpc/vim) - vim configuration for c/c++/golang/other coder，powerful and easy to use.
+* [adwpc/wow-vim](https://github.com/adwpc/wow-vim) - vim configuration for c/c++/golang/other coder，powerful and easy to use.
 * [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
 * [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
 * [mhinz/vim-lookup](https://github.com/mhinz/vim-lookup) - Jump to the definition of variables or functions in VimL code.
@@ -71,6 +71,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [tomtom/tskeleton_vim](https://github.com/tomtom/tskeleton_vim) - File Templates and Code Skeletons/Snippets for VIM
 * [rbonvall/vim-textobj-latex](https://github.com/rbonvall/vim-textobj-latex) - Vim text objects for LaTeX code
 * [kreskij/Repeatable.vim](https://github.com/kreskij/Repeatable.vim) - Create repeat.vim mappings with one simple "Repeatable" command
+* [adwpc/vim](https://github.com/adwpc/vim) - vim configuration for c/c++/golang/other coder，powerful and easy to use.
 * [ianva/vim-youdao-translater](https://github.com/ianva/vim-youdao-translater) - vim的有道取词翻译插件
 * [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) - :flashlight: [VimL] React JSX syntax pretty highlighting for vim.
 * [ynkdir/vim-vimlparser](https://github.com/ynkdir/vim-vimlparser) - VimL parser
@@ -302,7 +303,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [skammer/vim-css-color](https://github.com/skammer/vim-css-color) - Highlight colors in css files
 * [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim) - An extensible & universal comment vim-plugin that also handles embedded filetypes
 * [zaiste/vimified](https://github.com/zaiste/vimified) - Kick-ass Vim configuration framework.
-* [altercation/ethanschoonover.com](https://github.com/altercation/ethanschoonover.com) - website source (hakyll, pandoc markdown)
 * [xolox/vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
 * [xolox/vim-easytags](https://github.com/xolox/vim-easytags) - Automated tag file generation and syntax highlighting of tags in Vim
 * [kien/rainbow_parentheses.vim](https://github.com/kien/rainbow_parentheses.vim) - Better Rainbow Parentheses
