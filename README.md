@@ -36,18 +36,18 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [vim-jp/vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) - Vim script parser
 * [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 * [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
-* [tomtom/quickfixsigns_vim](https://github.com/tomtom/quickfixsigns_vim) - Mark quickfix & location list items with signs
 * [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
+* [tomtom/quickfixsigns_vim](https://github.com/tomtom/quickfixsigns_vim) - Mark quickfix & location list items with signs
 * [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
-* [kristijanhusak/vim-packager](https://github.com/kristijanhusak/vim-packager) - Vim plugin manager that utilizes "jobs" and "pack" features.
 * [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
+* [kristijanhusak/vim-packager](https://github.com/kristijanhusak/vim-packager) - Vim plugin manager that utilizes "jobs" and "pack" features.
 * [haya14busa/go-vimlparser](https://github.com/haya14busa/go-vimlparser) - :zap: Vim Script Parser written in Go
 * [ktonga/vim-follow-my-lead](https://github.com/ktonga/vim-follow-my-lead) - Vim plugin for showing all your <Leader> mappings in a readable table including the descriptions.
 * [tomtom/checksyntax_vim](https://github.com/tomtom/checksyntax_vim) - Check a file's syntax when saving a file (php, ruby, tex ...) with vim
 * [sbl/scvim](https://github.com/sbl/scvim) - vim plugin for supercollider
 * [ivalkeen/vim-ctrlp-tjump](https://github.com/ivalkeen/vim-ctrlp-tjump) - CtrlP extension for fuzzy-search in tag matches (:tjump replacement).
-* [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) - Easily locate the cursor after a search
 * [junkblocker/patchreview-vim](https://github.com/junkblocker/patchreview-vim) - Vim/Neovim plugin for doing single, multi-patch or diff code reviews
+* [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) - Easily locate the cursor after a search
 * [EinfachToll/DidYouMean](https://github.com/EinfachToll/DidYouMean) - Vim plugin which asks for the right file to open
 * [spicycode/Vimlander-2-The-Quickening](https://github.com/spicycode/Vimlander-2-The-Quickening) - A cataclysm has occured
 * [kristijanhusak/defx-icons](https://github.com/kristijanhusak/defx-icons) - Filetype icons for https://github.com/Shougo/defx.nvim
@@ -66,16 +66,16 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [keith/tmux.vim](https://github.com/keith/tmux.vim) - [DEPRECATED] .tmux.conf syntax highlighting
 * [jalcine/vimrc](https://github.com/jalcine/vimrc) - :seat: Options for my preferred text editor.
 * [unfog-io/unfog-vim](https://github.com/unfog-io/unfog-vim) - ⏱ A simple task and time manager (vim plugin).
-* [keith/rspec.vim](https://github.com/keith/rspec.vim) - Better rspec syntax highlighting for Vim
 * [salsifis/vim-transpose](https://github.com/salsifis/vim-transpose) - Vim plugin - Transpose matrices of text (swap lines with columns).
+* [keith/rspec.vim](https://github.com/keith/rspec.vim) - Better rspec syntax highlighting for Vim
 * [briandoll/change-inside-surroundings.vim](https://github.com/briandoll/change-inside-surroundings.vim) - vim plugin to change the contents of the innermost 'surrounding'
-* [jayli/vim-easydebugger](https://github.com/jayli/vim-easydebugger) - VIM 调试器, A VIM multi-language debugger plugin
 * [svermeulen/vim-macrobatics](https://github.com/svermeulen/vim-macrobatics) - Plugin for Vim that makes it easier to record / play / edit macros
+* [jayli/vim-easydebugger](https://github.com/jayli/vim-easydebugger) - VIM 调试器, A VIM multi-language debugger plugin
 * [gko/vimio](https://github.com/gko/vimio) - 🎩 easy to install/use vim settings
 * [DataWraith/auto_mkdir](https://github.com/DataWraith/auto_mkdir) - Vim plugin that allows you to save files into directories that do not exist yet.
 * [dansomething/vim-eclim](https://github.com/dansomething/vim-eclim) - Mirror of the VIM files from https://github.com/ervandew/eclim to support installation via various plugin managers.
-* [dahlia/nvimrc](https://github.com/dahlia/nvimrc) - My Neovim configuration.  Supports macOS and Linux.
 * [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
+* [dahlia/nvimrc](https://github.com/dahlia/nvimrc) - My Neovim configuration.  Supports macOS and Linux.
 * [aserebryakov/filestyle](https://github.com/aserebryakov/filestyle) - filestyle is a Vim plugin that highlights unwanted whitespace and characters.
 * [Xuyuanp/vimrc](https://github.com/Xuyuanp/vimrc) - My vim config
 * [tomtom/tskeleton_vim](https://github.com/tomtom/tskeleton_vim) - File Templates and Code Skeletons/Snippets for VIM
@@ -88,8 +88,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [Houl/repmo-vim](https://github.com/Houl/repmo-vim) - Repeat motions [for which a count was given]
 * [c9s/vim-dev-plugin](https://github.com/c9s/vim-dev-plugin) - A Vim plugin for developing VimL.
 * [ajh17/vim-fist](https://github.com/ajh17/vim-fist) - Fast, lightweight and super awesome Gist support from...The Fist of Vim™!
-* [vsouza/.vimrc](https://github.com/vsouza/.vimrc) - My Vim Setup
 * [rootkiter/vim-hexedit](https://github.com/rootkiter/vim-hexedit) - Hexedit is a plug-in under VIM, which is used to strengthen the hex editing ability of VIM.
+* [vsouza/.vimrc](https://github.com/vsouza/.vimrc) - My Vim Setup
 * [dahu/LearnVimL](https://github.com/dahu/LearnVimL) - A suggested path for learning Vim's scripting language, VimL
 * [kreskij/Repeatable.vim](https://github.com/kreskij/Repeatable.vim) - Create repeat.vim mappings with one simple "Repeatable" command
 * [wlemuel/vim-tldr](https://github.com/wlemuel/vim-tldr) - tldr client for vim/neovim
