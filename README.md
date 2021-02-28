@@ -23,20 +23,19 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
 * [lymslive/vimllearn](https://github.com/lymslive/vimllearn) - A book for VimL Script language
 * [tmsvg/pear-tree](https://github.com/tmsvg/pear-tree) - A Vim auto-pair plugin that supports multi-character pairs, intelligent matching, and more
-* [tlhunter/vimrc](https://github.com/tlhunter/vimrc) - VimL: Opinionated VIM Configuration
-* [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 * [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
+* [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 * [keith/investigate.vim](https://github.com/keith/investigate.vim) - A Vim plugin for looking up documentation
 * [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
 * [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
 * [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
-* [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) - Another github v3 api implemented in vim script
 * [kristijanhusak/vim-packager](https://github.com/kristijanhusak/vim-packager) - Vim plugin manager that utilizes "jobs" and "pack" features.
+* [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) - Another github v3 api implemented in vim script
 * [tikhomirov/vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
-* [timss/vimconf](https://github.com/timss/vimconf) - Extensive vimrc with super easy install and everything in the vimrc is explained!
 * [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
-* [james9909/stackanswers.vim](https://github.com/james9909/stackanswers.vim) - Vim plugin to fetch and display answers from Stack Overflow
+* [timss/vimconf](https://github.com/timss/vimconf) - Extensive vimrc with super easy install and everything in the vimrc is explained!
 * [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
+* [james9909/stackanswers.vim](https://github.com/james9909/stackanswers.vim) - Vim plugin to fetch and display answers from Stack Overflow
 * [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
 * [tomtom/tlib_vim](https://github.com/tomtom/tlib_vim) - Some utility functions for VIM
 * [vim-jp/vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) - Vim script parser
@@ -59,11 +58,11 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [joom/vim-starter](https://github.com/joom/vim-starter) - Quick starter kit for Vim beginners.
 * [c9s/hypergit.vim](https://github.com/c9s/hypergit.vim) - This git plugin provides many awesome features so that you don't need to type commands anymore..
 * [svermeulen/vim-macrobatics](https://github.com/svermeulen/vim-macrobatics) - Plugin for Vim that makes it easier to record / play / edit macros
+* [soywod/unfog.vim](https://github.com/soywod/unfog.vim) - ⏱ Vim plugin for Unfog CLI task & time manager.
 * [dahu/vimple](https://github.com/dahu/vimple) - Develop VimL
 * [tomtom/viki_vim](https://github.com/tomtom/viki_vim) - A personal wiki for Vim
-* [soywod/unfog.vim](https://github.com/soywod/unfog.vim) - ⏱ Vim plugin for Unfog CLI task & time manager.
-* [mhinz/vim-lookup](https://github.com/mhinz/vim-lookup) - Jump to the definition of variables or functions in VimL code.
 * [powerman/vim-plugin-ruscmd](https://github.com/powerman/vim-plugin-ruscmd) - Vim plugin: support command mode in Russian keyboard layout
+* [mhinz/vim-lookup](https://github.com/mhinz/vim-lookup) - Jump to the definition of variables or functions in VimL code.
 * [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
 * [gko/vimio](https://github.com/gko/vimio) - 🎩 easy to install/use vim settings
 * [keith/tmux.vim](https://github.com/keith/tmux.vim) - [DEPRECATED] .tmux.conf syntax highlighting
@@ -73,31 +72,32 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [keith/rspec.vim](https://github.com/keith/rspec.vim) - Better rspec syntax highlighting for Vim
 * [briandoll/change-inside-surroundings.vim](https://github.com/briandoll/change-inside-surroundings.vim) - vim plugin to change the contents of the innermost 'surrounding'
 * [salsifis/vim-transpose](https://github.com/salsifis/vim-transpose) - Vim plugin - Transpose matrices of text (swap lines with columns).
-* [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
 * [Xuyuanp/vimrc](https://github.com/Xuyuanp/vimrc) - My vim config
+* [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
 * [DataWraith/auto_mkdir](https://github.com/DataWraith/auto_mkdir) - Vim plugin that allows you to save files into directories that do not exist yet.
 * [jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete) - 好用的代码补全插件 vim-easycomplete
 * [dansomething/vim-eclim](https://github.com/dansomething/vim-eclim) - Mirror of the VIM files from https://github.com/ervandew/eclim to support installation via various plugin managers.
 * [tomtom/tskeleton_vim](https://github.com/tomtom/tskeleton_vim) - File Templates and Code Skeletons/Snippets for VIM
+* [keith/parsec.vim](https://github.com/keith/parsec.vim) - A Vim color scheme for people tired of solarized
 * [dahlia/nvimrc](https://github.com/dahlia/nvimrc) - My Neovim configuration.  Supports macOS and Linux.
 * [aserebryakov/filestyle](https://github.com/aserebryakov/filestyle) - filestyle is a Vim plugin that highlights unwanted whitespace and characters.
 * [Houl/repmo-vim](https://github.com/Houl/repmo-vim) - Repeat motions [for which a count was given]
 * [rbonvall/vim-textobj-latex](https://github.com/rbonvall/vim-textobj-latex) - Vim text objects for LaTeX code
 * [powerman/vim-plugin-autosess](https://github.com/powerman/vim-plugin-autosess) - Vim plugin: auto save/load sessions
-* [keith/parsec.vim](https://github.com/keith/parsec.vim) - A Vim color scheme for people tired of solarized
 * [wlemuel/vim-tldr](https://github.com/wlemuel/vim-tldr) - tldr client for vim/neovim
 * [kakkoyun/linux.files](https://github.com/kakkoyun/linux.files) - Configuration Files of my System
 * [jayli/vim](https://github.com/jayli/vim) - 我的vim配置文件
 * [c9s/vim-dev-plugin](https://github.com/c9s/vim-dev-plugin) - A Vim plugin for developing VimL.
 * [ackyshake/vim-fist](https://github.com/ackyshake/vim-fist) - Fast, lightweight and super awesome Gist support from...The Fist of Vim™!
-* [vsouza/.vimrc](https://github.com/vsouza/.vimrc) - My Vim Setup
-* [kreskij/Repeatable.vim](https://github.com/kreskij/Repeatable.vim) - Create repeat.vim mappings with one simple "Repeatable" command
 * [LukeSmithxyz/vimling](https://github.com/LukeSmithxyz/vimling) - Small vim scripts for writing IPA and other special characters
+* [kreskij/Repeatable.vim](https://github.com/kreskij/Repeatable.vim) - Create repeat.vim mappings with one simple "Repeatable" command
+* [vsouza/.vimrc](https://github.com/vsouza/.vimrc) - My Vim Setup
 * [neoclide/coc-neco](https://github.com/neoclide/coc-neco) - viml completion source for coc.nvim
 * [dahu/LearnVimL](https://github.com/dahu/LearnVimL) - A suggested path for learning Vim's scripting language, VimL
 * [junkblocker/git-time-lapse](https://github.com/junkblocker/git-time-lapse) - Fork of git-time-lapse: Perforce-style for vim
 * [fcpg/vim-complimentary](https://github.com/fcpg/vim-complimentary) - Better completion for Vim builtins
 * [HP4k1h5/ephemeris](https://github.com/HP4k1h5/ephemeris) - a diary plugin for vim
+* [tlhunter/vimrc](https://github.com/tlhunter/vimrc) - VimL: Opinionated VIM Configuration
 * [ajh17/VimCompletesMe](https://github.com/ajh17/VimCompletesMe) - You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
 * [ajh17/Spacegray.vim](https://github.com/ajh17/Spacegray.vim) - A Vim color scheme loosely based on the Spacegray Xcode theme.
 * [ajh17/vim-fist](https://github.com/ajh17/vim-fist) - Fast, lightweight and super awesome Gist support from...The Fist of Vim™!
