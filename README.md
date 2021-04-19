@@ -24,8 +24,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [lymslive/vimllearn](https://github.com/lymslive/vimllearn) - A book for VimL Script language
 * [tmsvg/pear-tree](https://github.com/tmsvg/pear-tree) - A Vim auto-pair plugin that supports multi-character pairs, intelligent matching, and more
 * [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
-* [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 * [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
+* [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 * [keith/investigate.vim](https://github.com/keith/investigate.vim) - A Vim plugin for looking up documentation
 * [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
 * [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
@@ -40,8 +40,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [tomtom/tlib_vim](https://github.com/tomtom/tlib_vim) - Some utility functions for VIM
 * [vim-jp/vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) - Vim script parser
 * [vim-jp/go-vimlparser](https://github.com/vim-jp/go-vimlparser) - :zap: Vim Script Parser written in Go
-* [tomtom/quickfixsigns_vim](https://github.com/tomtom/quickfixsigns_vim) - Mark quickfix & location list items with signs
 * [aserebryakov/vim-todo-lists](https://github.com/aserebryakov/vim-todo-lists) - Vim plugin for TODO lists
+* [tomtom/quickfixsigns_vim](https://github.com/tomtom/quickfixsigns_vim) - Mark quickfix & location list items with signs
 * [kristijanhusak/defx-icons](https://github.com/kristijanhusak/defx-icons) - Filetype icons for https://github.com/Shougo/defx.nvim
 * [ktonga/vim-follow-my-lead](https://github.com/ktonga/vim-follow-my-lead) - Vim plugin for showing all your <Leader> mappings in a readable table including the descriptions.
 * [junkblocker/patchreview-vim](https://github.com/junkblocker/patchreview-vim) - Vim/Neovim plugin for doing single, multi-patch or diff code reviews
@@ -66,30 +66,30 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
 * [gko/vimio](https://github.com/gko/vimio) - 🎩 easy to install/use vim settings
 * [keith/tmux.vim](https://github.com/keith/tmux.vim) - [DEPRECATED] .tmux.conf syntax highlighting
-* [jalcine/vimrc](https://github.com/jalcine/vimrc) - :seat: Options for my preferred text editor.
 * [rootkiter/vim-hexedit](https://github.com/rootkiter/vim-hexedit) - Hexedit is a plug-in under VIM, which is used to strengthen the hex editing ability of VIM.
+* [jalcine/vimrc](https://github.com/jalcine/vimrc) - :seat: Options for my preferred text editor.
 * [jayli/vim-easydebugger](https://github.com/jayli/vim-easydebugger) - A VIM multi-language debugger plugin
 * [briandoll/change-inside-surroundings.vim](https://github.com/briandoll/change-inside-surroundings.vim) - vim plugin to change the contents of the innermost 'surrounding'
 * [keith/rspec.vim](https://github.com/keith/rspec.vim) - Better rspec syntax highlighting for Vim
+* [jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete) - 余杭区最好用的 VIM/NVIM 代码自动补全插件
+* [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
 * [salsifis/vim-transpose](https://github.com/salsifis/vim-transpose) - Vim plugin - Transpose matrices of text (swap lines with columns).
 * [Xuyuanp/vimrc](https://github.com/Xuyuanp/vimrc) - My vim config
-* [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
-* [jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete) - 好用的代码补全插件 vim-easycomplete
 * [DataWraith/auto_mkdir](https://github.com/DataWraith/auto_mkdir) - Vim plugin that allows you to save files into directories that do not exist yet.
+* [wlemuel/vim-tldr](https://github.com/wlemuel/vim-tldr) - tldr client for vim/neovim
 * [dansomething/vim-eclim](https://github.com/dansomething/vim-eclim) - Mirror of the VIM files from https://github.com/ervandew/eclim to support installation via various plugin managers.
 * [tomtom/tskeleton_vim](https://github.com/tomtom/tskeleton_vim) - File Templates and Code Skeletons/Snippets for VIM
 * [keith/parsec.vim](https://github.com/keith/parsec.vim) - A Vim color scheme for people tired of solarized
 * [dahlia/nvimrc](https://github.com/dahlia/nvimrc) - My Neovim configuration.  Supports macOS and Linux.
-* [wlemuel/vim-tldr](https://github.com/wlemuel/vim-tldr) - tldr client for vim/neovim
+* [rbonvall/vim-textobj-latex](https://github.com/rbonvall/vim-textobj-latex) - Vim text objects for LaTeX code
 * [powerman/vim-plugin-autosess](https://github.com/powerman/vim-plugin-autosess) - Vim plugin: auto save/load sessions
 * [aserebryakov/filestyle](https://github.com/aserebryakov/filestyle) - filestyle is a Vim plugin that highlights unwanted whitespace and characters.
 * [Houl/repmo-vim](https://github.com/Houl/repmo-vim) - Repeat motions [for which a count was given]
-* [rbonvall/vim-textobj-latex](https://github.com/rbonvall/vim-textobj-latex) - Vim text objects for LaTeX code
 * [kakkoyun/linux.files](https://github.com/kakkoyun/linux.files) - Configuration Files of my System
 * [jayli/vim](https://github.com/jayli/vim) - 我的vim配置文件
+* [LukeSmithxyz/vimling](https://github.com/LukeSmithxyz/vimling) - Small vim scripts for writing IPA and other special characters
 * [c9s/vim-dev-plugin](https://github.com/c9s/vim-dev-plugin) - A Vim plugin for developing VimL.
 * [ackyshake/vim-fist](https://github.com/ackyshake/vim-fist) - Fast, lightweight and super awesome Gist support from...The Fist of Vim™!
-* [LukeSmithxyz/vimling](https://github.com/LukeSmithxyz/vimling) - Small vim scripts for writing IPA and other special characters
 * [kreskij/Repeatable.vim](https://github.com/kreskij/Repeatable.vim) - Create repeat.vim mappings with one simple "Repeatable" command
 * [vsouza/.vimrc](https://github.com/vsouza/.vimrc) - My Vim Setup
 * [neoclide/coc-neco](https://github.com/neoclide/coc-neco) - viml completion source for coc.nvim
