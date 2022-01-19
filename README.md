@@ -4,8 +4,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 
 * [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 * [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-* [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
 * [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
+* [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
 * [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 * [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 * [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
@@ -19,8 +19,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [HerringtonDarkholme/yats.vim](https://github.com/HerringtonDarkholme/yats.vim) - Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim
 * [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
 * [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
-* [isRuslan/vim-es6](https://github.com/isRuslan/vim-es6) - List of JavaScript ES6 snippets and syntax highlighting for vim.
 * [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
+* [isRuslan/vim-es6](https://github.com/isRuslan/vim-es6) - List of JavaScript ES6 snippets and syntax highlighting for vim.
 * [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
 * [lymslive/vimllearn](https://github.com/lymslive/vimllearn) - A book for VimL Script language
 * [ackyshake/Spacegray.vim](https://github.com/ackyshake/Spacegray.vim) - A Vim color scheme loosely based on the Spacegray Xcode theme.
@@ -57,8 +57,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [svermeulen/vim-macrobatics](https://github.com/svermeulen/vim-macrobatics) - Plugin for Vim that makes it easier to record / play / edit macros
 * [adwpc/xvim](https://github.com/adwpc/xvim) - Powerfull vim configuration for C/C++/GO/JS coder（好用的vim插件集成包，支持C/C++/GO/JS）
 * [joom/vim-starter](https://github.com/joom/vim-starter) - Quick starter kit for Vim beginners.
-* [c9s/hypergit.vim](https://github.com/c9s/hypergit.vim) - This git plugin provides many awesome features so that you don't need to type commands anymore..
 * [soywod/unfog.vim](https://github.com/soywod/unfog.vim) - ⏱ Vim plugin for Unfog CLI task & time manager.
+* [c9s/hypergit.vim](https://github.com/c9s/hypergit.vim) - This git plugin provides many awesome features so that you don't need to type commands anymore..
 * [powerman/vim-plugin-ruscmd](https://github.com/powerman/vim-plugin-ruscmd) - Vim plugin: support command mode in Russian keyboard layout
 * [mhinz/vim-lookup](https://github.com/mhinz/vim-lookup) - Jump to the definition of variables or functions in VimL code.
 * [dahu/vimple](https://github.com/dahu/vimple) - Develop VimL
@@ -66,21 +66,21 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [oakmac/parinfer-viml](https://github.com/oakmac/parinfer-viml) - Parinfer in Vimscript
 * [rootkiter/vim-hexedit](https://github.com/rootkiter/vim-hexedit) - Hexedit is a plug-in under VIM, which is used to strengthen the hex editing ability of VIM.
 * [gko/vimio](https://github.com/gko/vimio) - 🎩 easy to install/use vim settings
-* [keith/tmux.vim](https://github.com/keith/tmux.vim) - [DEPRECATED] .tmux.conf syntax highlighting
 * [wlemuel/vim-tldr](https://github.com/wlemuel/vim-tldr) - tldr client for vim/neovim
+* [keith/tmux.vim](https://github.com/keith/tmux.vim) - [DEPRECATED] .tmux.conf syntax highlighting
 * [jayli/vim-easydebugger](https://github.com/jayli/vim-easydebugger) - A VIM multi-language debugger plugin
 * [jalcine/vimrc](https://github.com/jalcine/vimrc) - :seat: Options for my preferred text editor.
 * [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
 * [briandoll/change-inside-surroundings.vim](https://github.com/briandoll/change-inside-surroundings.vim) - vim plugin to change the contents of the innermost 'surrounding'
+* [mrbeardad/SpaceVim](https://github.com/mrbeardad/SpaceVim) - 基于SpaceVim的真正开箱即用、无需配置的IDE，你只需要记住快捷键即可。（目前默认支持C/C++、Go、Python、Shell、Markdown、VimL）
 * [salsifis/vim-transpose](https://github.com/salsifis/vim-transpose) - Vim plugin - Transpose matrices of text (swap lines with columns).
 * [keith/rspec.vim](https://github.com/keith/rspec.vim) - Better rspec syntax highlighting for Vim
-* [mrbeardad/SpaceVim](https://github.com/mrbeardad/SpaceVim) - 基于SpaceVim的真正开箱即用、无需配置的IDE，你只需要记住快捷键即可。（目前默认支持C/C++、Go、Python、Shell、Markdown、VimL）
-* [Houl/repmo-vim](https://github.com/Houl/repmo-vim) - Repeat motions [for which a count was given]
 * [keith/parsec.vim](https://github.com/keith/parsec.vim) - A Vim color scheme for people tired of solarized
+* [Houl/repmo-vim](https://github.com/Houl/repmo-vim) - Repeat motions [for which a count was given]
 * [dansomething/vim-eclim](https://github.com/dansomething/vim-eclim) - Mirror of the VIM files from https://github.com/ervandew/eclim to support installation via various plugin managers.
+* [tomtom/tskeleton_vim](https://github.com/tomtom/tskeleton_vim) - File Templates and Code Skeletons/Snippets for VIM
 * [DataWraith/auto_mkdir](https://github.com/DataWraith/auto_mkdir) - Vim plugin that allows you to save files into directories that do not exist yet.
 * [LukeSmithxyz/vimling](https://github.com/LukeSmithxyz/vimling) - Small vim scripts for writing IPA and other special characters
-* [tomtom/tskeleton_vim](https://github.com/tomtom/tskeleton_vim) - File Templates and Code Skeletons/Snippets for VIM
 * [powerman/vim-plugin-autosess](https://github.com/powerman/vim-plugin-autosess) - Vim plugin: auto save/load sessions
 * [jayli/vim](https://github.com/jayli/vim) - 我的vim配置文件
 * [dahlia/nvimrc](https://github.com/dahlia/nvimrc) - My Neovim configuration.  Supports macOS and Linux.
