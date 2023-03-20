@@ -10,7 +10,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 * [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
 * [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
-* [ackyshake/VimCompletesMe](https://github.com/ackyshake/VimCompletesMe) - You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
 * [keith/swift.vim](https://github.com/keith/swift.vim) - Vim runtime files for Swift
 * [lymslive/vimllearn](https://github.com/lymslive/vimllearn) - A book for VimL Script language
 * [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
@@ -23,7 +22,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
 * [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
 * [isRuslan/vim-es6](https://github.com/isRuslan/vim-es6) - List of JavaScript ES6 snippets and syntax highlighting for vim.
-* [ackyshake/Spacegray.vim](https://github.com/ackyshake/Spacegray.vim) - A Vim color scheme loosely based on the Spacegray Xcode theme.
 * [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 * [tmsvg/pear-tree](https://github.com/tmsvg/pear-tree) - A Vim auto-pair plugin that supports multi-character pairs, intelligent matching, and more
 * [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
@@ -91,7 +89,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [junkblocker/git-time-lapse](https://github.com/junkblocker/git-time-lapse) - Fork of git-time-lapse: Perforce-style for vim/neovim
 * [kyoz/neovim](https://github.com/kyoz/neovim) - :star2: Cool & Modularized vim configurations to work like an IDE
 * [strboul/urlview.vim](https://github.com/strboul/urlview.vim) - List and open URLs easily
-* [ackyshake/vim-fist](https://github.com/ackyshake/vim-fist) - Fast, lightweight and super awesome Gist support from...The Fist of Vim™!
 * [vsouza/.vimrc](https://github.com/vsouza/.vimrc) - My Vim Setup
 * [c9s/vim-dev-plugin](https://github.com/c9s/vim-dev-plugin) - A Vim plugin for developing VimL.
 * [airblade/vim-matchquote](https://github.com/airblade/vim-matchquote) - A Vim plugin to provide %-style motion for single / double quotation marks, backticks and pipe.
@@ -107,9 +104,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 * [Xuyuanp/vimrc](https://github.com/Xuyuanp/vimrc) - My vim config
 * [tlhunter/vimrc](https://github.com/tlhunter/vimrc) - VimL: Opinionated VIM Configuration
-* [ajh17/VimCompletesMe](https://github.com/ajh17/VimCompletesMe) - You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
-* [ajh17/Spacegray.vim](https://github.com/ajh17/Spacegray.vim) - A Vim color scheme loosely based on the Spacegray Xcode theme.
-* [ajh17/vim-fist](https://github.com/ajh17/vim-fist) - Fast, lightweight and super awesome Gist support from...The Fist of Vim™!
 * [haya14busa/go-vimlparser](https://github.com/haya14busa/go-vimlparser) - :zap: Vim Script Parser written in Go
 * [unfog-io/unfog-vim](https://github.com/unfog-io/unfog-vim) - ⏱ A simple task and time manager (vim plugin).
 * [damofthemoon/vim-leader-mapper](https://github.com/damofthemoon/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
