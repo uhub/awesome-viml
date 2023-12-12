@@ -49,8 +49,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [sbl/scvim](https://github.com/sbl/scvim) - vim plugin for supercollider
 * [ivalkeen/vim-ctrlp-tjump](https://github.com/ivalkeen/vim-ctrlp-tjump) - CtrlP extension for fuzzy-search in tag matches (:tjump replacement).
 * [powerman/vim-plugin-viewdoc](https://github.com/powerman/vim-plugin-viewdoc) - Vim plugin: flexible viewer for any documentation
-* [EinfachToll/DidYouMean](https://github.com/EinfachToll/DidYouMean) - Vim plugin which asks for the right file to open
 * [svermeulen/vim-macrobatics](https://github.com/svermeulen/vim-macrobatics) - Plugin for Vim that makes it easier to record / play / edit macros
+* [EinfachToll/DidYouMean](https://github.com/EinfachToll/DidYouMean) - Vim plugin which asks for the right file to open
 * [mrbeardad/SpaceVim](https://github.com/mrbeardad/SpaceVim) - 基于SpaceVim的真正开箱即用、无需配置的IDE，你只需要记住快捷键即可。（目前默认支持C/C++、Go、Python、Shell、Markdown、VimL）
 * [spicycode/Vimlander-2-The-Quickening](https://github.com/spicycode/Vimlander-2-The-Quickening) - A cataclysm has occured
 * [takac/vim-spotifysearch](https://github.com/takac/vim-spotifysearch) - Search spotify in Vim and play songs.
@@ -70,17 +70,17 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [salsifis/vim-transpose](https://github.com/salsifis/vim-transpose) - Vim plugin - Transpose matrices of text (swap lines with columns).
 * [gko/vimio](https://github.com/gko/vimio) - 🎩 easy to install/use vim settings
 * [keith/tmux.vim](https://github.com/keith/tmux.vim) - [DEPRECATED] .tmux.conf syntax highlighting
-* [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
 * [briandoll/change-inside-surroundings.vim](https://github.com/briandoll/change-inside-surroundings.vim) - vim plugin to change the contents of the innermost 'surrounding'
-* [jalcine/vimrc](https://github.com/jalcine/vimrc) - :seat: Options for my preferred text editor.
-* [keith/rspec.vim](https://github.com/keith/rspec.vim) - Better rspec syntax highlighting for Vim
 * [keith/parsec.vim](https://github.com/keith/parsec.vim) - A Vim color scheme for people tired of solarized
+* [jalcine/vimrc](https://github.com/jalcine/vimrc) - :seat: Options for my preferred text editor.
+* [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
+* [keith/rspec.vim](https://github.com/keith/rspec.vim) - Better rspec syntax highlighting for Vim
 * [dansomething/vim-eclim](https://github.com/dansomething/vim-eclim) - Mirror of the VIM files from https://github.com/ervandew/eclim to support installation via various plugin managers.
 * [DataWraith/auto_mkdir](https://github.com/DataWraith/auto_mkdir) - Vim plugin that allows you to save files into directories that do not exist yet.
 * [tomtom/tskeleton_vim](https://github.com/tomtom/tskeleton_vim) - File Templates and Code Skeletons/Snippets for VIM
 * [Houl/repmo-vim](https://github.com/Houl/repmo-vim) - Repeat motions [for which a count was given]
-* [powerman/vim-plugin-autosess](https://github.com/powerman/vim-plugin-autosess) - Vim plugin: auto save/load sessions
 * [rbonvall/vim-textobj-latex](https://github.com/rbonvall/vim-textobj-latex) - Vim text objects for LaTeX code
+* [powerman/vim-plugin-autosess](https://github.com/powerman/vim-plugin-autosess) - Vim plugin: auto save/load sessions
 * [dahlia/nvimrc](https://github.com/dahlia/nvimrc) - My Neovim configuration.  Supports macOS and Linux.
 * [junkblocker/git-time-lapse](https://github.com/junkblocker/git-time-lapse) - Fork of git-time-lapse: Perforce-style for vim/neovim
 * [aserebryakov/filestyle](https://github.com/aserebryakov/filestyle) - filestyle is a Vim plugin that highlights unwanted whitespace and characters.
