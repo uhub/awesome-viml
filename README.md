@@ -53,8 +53,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [powerman/vim-plugin-viewdoc](https://github.com/powerman/vim-plugin-viewdoc) - Vim plugin: flexible viewer for any documentation
 * [EinfachToll/DidYouMean](https://github.com/EinfachToll/DidYouMean) - Vim plugin which asks for the right file to open
 * [spicycode/Vimlander-2-The-Quickening](https://github.com/spicycode/Vimlander-2-The-Quickening) - A cataclysm has occured
-* [takac/vim-spotifysearch](https://github.com/takac/vim-spotifysearch) - Search spotify in Vim and play songs.
 * [soywod/unfog.vim](https://github.com/soywod/unfog.vim) - ⏱ Vim plugin for Unfog CLI task & time manager.
+* [takac/vim-spotifysearch](https://github.com/takac/vim-spotifysearch) - Search spotify in Vim and play songs.
 * [joom/vim-starter](https://github.com/joom/vim-starter) - Quick starter kit for Vim beginners.
 * [rootkiter/vim-hexedit](https://github.com/rootkiter/vim-hexedit) - Hexedit is a plug-in under VIM, which is used to strengthen the hex editing ability of VIM.
 * [adwpc/xvim](https://github.com/adwpc/xvim) - Powerfull vim configuration for C/C++/GO/JS coder（好用的vim插件集成包，支持C/C++/GO/JS）
@@ -94,8 +94,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [fcpg/vim-complimentary](https://github.com/fcpg/vim-complimentary) - Better completion for Vim builtins
 * [neoclide/coc-neco](https://github.com/neoclide/coc-neco) - viml completion source for coc.nvim
 * [keith/xcconfig.vim](https://github.com/keith/xcconfig.vim) - Vim runtime files for xcconfigs
-* [mikeslattery/nvim-defaults.vim](https://github.com/mikeslattery/nvim-defaults.vim) - Neovim default settings for Vim
 * [hp4k1h5/ephemeris](https://github.com/hp4k1h5/ephemeris) - a diary plugin for vim
+* [mikeslattery/nvim-defaults.vim](https://github.com/mikeslattery/nvim-defaults.vim) - Neovim default settings for Vim
 * [dahu/LearnVimL](https://github.com/dahu/LearnVimL) - A suggested path for learning Vim's scripting language, VimL
 * [josh-/dotfiles](https://github.com/josh-/dotfiles) - josh-'s all important dotfiles.
 * [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - 该仓库用于备份我的dotfiles，主要开发语言Golang，脚本lua，bash shell等...
