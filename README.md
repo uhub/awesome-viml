@@ -22,7 +22,6 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
 * [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
 * [isRuslan/vim-es6](https://github.com/isRuslan/vim-es6) - List of JavaScript ES6 snippets and syntax highlighting for vim.
-* [jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete) - 杭州市余杭区最好用的 VIM/NVIM 代码补全插件
 * [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 * [tmsvg/pear-tree](https://github.com/tmsvg/pear-tree) - A Vim auto-pair plugin that supports multi-character pairs, intelligent matching, and more
 * [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
@@ -49,8 +48,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [tomtom/checksyntax_vim](https://github.com/tomtom/checksyntax_vim) - Check a file's syntax when saving a file (php, ruby, tex ...) with vim
 * [sbl/scvim](https://github.com/sbl/scvim) - vim plugin for supercollider
 * [ivalkeen/vim-ctrlp-tjump](https://github.com/ivalkeen/vim-ctrlp-tjump) - CtrlP extension for fuzzy-search in tag matches (:tjump replacement).
-* [svermeulen/vim-macrobatics](https://github.com/svermeulen/vim-macrobatics) - Plugin for Vim that makes it easier to record / play / edit macros
 * [powerman/vim-plugin-viewdoc](https://github.com/powerman/vim-plugin-viewdoc) - Vim plugin: flexible viewer for any documentation
+* [svermeulen/vim-macrobatics](https://github.com/svermeulen/vim-macrobatics) - Plugin for Vim that makes it easier to record / play / edit macros
 * [EinfachToll/DidYouMean](https://github.com/EinfachToll/DidYouMean) - Vim plugin which asks for the right file to open
 * [spicycode/Vimlander-2-The-Quickening](https://github.com/spicycode/Vimlander-2-The-Quickening) - A cataclysm has occured
 * [soywod/unfog.vim](https://github.com/soywod/unfog.vim) - ⏱ Vim plugin for Unfog CLI task & time manager.
@@ -97,6 +96,7 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [hp4k1h5/ephemeris](https://github.com/hp4k1h5/ephemeris) - a diary plugin for vim
 * [mikeslattery/nvim-defaults.vim](https://github.com/mikeslattery/nvim-defaults.vim) - Neovim default settings for Vim
 * [dahu/LearnVimL](https://github.com/dahu/LearnVimL) - A suggested path for learning Vim's scripting language, VimL
+* [jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete) - 杭州市余杭区最好用的 VIM/NVIM 代码补全插件
 * [josh-/dotfiles](https://github.com/josh-/dotfiles) - josh-'s all important dotfiles.
 * [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - 该仓库用于备份我的dotfiles，主要开发语言Golang，脚本lua，bash shell等...
 * [HP4k1h5/ephemeris](https://github.com/HP4k1h5/ephemeris) - a diary plugin for vim
