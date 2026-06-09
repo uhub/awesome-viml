@@ -3,6 +3,7 @@
 A curated list of awesome Viml frameworks, libraries and software.
 
 * [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
+* [bhagyas/vim-training-wheels](https://github.com/bhagyas/vim-training-wheels) - Mode-aware Vim command hints in your statusline.
 * [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 * [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 * [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
