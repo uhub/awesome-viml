@@ -1,6 +1,6 @@
 # awesome-viml
 
-A curated list of awesome Viml frameworks, libraries and software.
+A curated list of awesome Vim frameworks, libraries and software.
 
 * Learning and Reference
 	* [Tutorials and Books](#tutorials-and-books)
@@ -307,8 +307,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [pineapplegiant/spaceduck](https://github.com/pineapplegiant/spaceduck) - 🚀 🦆 An intergalactic space theme for Vim, Terminal, and more!
 * [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview) - A Vim Plugin for Lively Previewing LaTeX PDF Output
 * [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
-* [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 * [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
+* [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 * [raphamorim/lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm
 * [ap/vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
 * [keith/swift.vim](https://github.com/keith/swift.vim) - Vim runtime files for Swift
@@ -346,11 +346,11 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim) - Ranger integration in vim and neovim
 * [HerringtonDarkholme/yats.vim](https://github.com/HerringtonDarkholme/yats.vim) - Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim
 * [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
-* [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
 * [vim-scripts/taglist.vim](https://github.com/vim-scripts/taglist.vim) - Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
-* [tmhedberg/SimpylFold](https://github.com/tmhedberg/SimpylFold) - No-BS Python code folding for Vim
+* [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
 * [dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
 * [ets-labs/python-vimrc](https://github.com/ets-labs/python-vimrc) - VIM Configuration for Python / Cython / C Development
+* [tmhedberg/SimpylFold](https://github.com/tmhedberg/SimpylFold) - No-BS Python code folding for Vim
 * [lunacookies/vim-colors-xcode](https://github.com/lunacookies/vim-colors-xcode) - Xcode 11’s dark and light colourschemes for Vim
 * [guns/vim-sexp](https://github.com/guns/vim-sexp) - Precision Editing for S-expressions
 * [challenger-deep-theme/vim](https://github.com/challenger-deep-theme/vim) - FlatColor vim colorscheme
@@ -477,8 +477,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [chemzqm/wxapp.vim](https://github.com/chemzqm/wxapp.vim) - 提供微信小程序开发全方位支持的 vim 插件
 * [img-paste-devs/img-paste.vim](https://github.com/img-paste-devs/img-paste.vim) - paste image to markdown
 * [nschurmann/configs](https://github.com/nschurmann/configs) - My neovim configuration
-* [lfv89/vim-interestingwords](https://github.com/lfv89/vim-interestingwords) - 🎨 A plugin for seamlessly highlighting and navigating through words
 * [fgheng/vime](https://github.com/fgheng/vime) - vime, an easy and structural config for (neo)vim users
+* [lfv89/vim-interestingwords](https://github.com/lfv89/vim-interestingwords) - 🎨 A plugin for seamlessly highlighting and navigating through words
 * [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
 * [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 * [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
@@ -560,9 +560,9 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [zefei/vim-wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager for Vim
 * [terryma/vim-smooth-scroll](https://github.com/terryma/vim-smooth-scroll) - Make scrolling in Vim more pleasant
 * [tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
+* [vim-scripts/a.vim](https://github.com/vim-scripts/a.vim) - Alternate Files quickly (.c --> .h etc)
 * [evanleck/vim-svelte](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
 * [Everblush/everblush.vim](https://github.com/Everblush/everblush.vim) - 🎨 A beautiful and dark vim colorscheme.
-* [vim-scripts/a.vim](https://github.com/vim-scripts/a.vim) - Alternate Files quickly (.c --> .h etc)
 * [goerz/jupytext.vim](https://github.com/goerz/jupytext.vim) - Vim plugin for editing Jupyter ipynb files via jupytext *(archived)*
 * [dkprice/vim-easygrep](https://github.com/dkprice/vim-easygrep) - Fast and Easy Find and Replace Across Multiple Files
 * [kana/vim-smartinput](https://github.com/kana/vim-smartinput) - Vim plugin: Provide smart input assistant
@@ -696,8 +696,8 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [roxma/nvim-yarp](https://github.com/roxma/nvim-yarp) - Yet Another Remote Plugin Framework for Neovim
 * [tpope/vim-flagship](https://github.com/tpope/vim-flagship) - flagship.vim: Configurable and extensible tab line and status line
 * [vim-scripts/vim-auto-save](https://github.com/vim-scripts/vim-auto-save) - Automatically save changes to disk
-* [jwalton512/vim-blade](https://github.com/jwalton512/vim-blade) - Vim syntax highlighting for Blade templates. *(archived)*
 * [phanviet/vim-monokai-pro](https://github.com/phanviet/vim-monokai-pro) - Monokai Pro color scheme for Vim / Neovim
+* [jwalton512/vim-blade](https://github.com/jwalton512/vim-blade) - Vim syntax highlighting for Blade templates. *(archived)*
 * [preservim/vim-thematic](https://github.com/preservim/vim-thematic) - Alter Vim's appearance to suit your task & environ
 * [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim) - Vim plugin to control splits with visual selections or text objects
 * [MashMB/nvim-ide](https://github.com/MashMB/nvim-ide) - Neovim as IDE in Docker container.
@@ -816,11 +816,11 @@ A curated list of awesome Viml frameworks, libraries and software.
 * [rhysd/devdocs.vim](https://github.com/rhysd/devdocs.vim) - Open devdocs.io from Vim
 * [kana/vim-textobj-indent](https://github.com/kana/vim-textobj-indent) - Vim plugin: Text objects for indented blocks of lines
 * [rhysd/github-complete.vim](https://github.com/rhysd/github-complete.vim) - Vim input completion for GitHub
+* [tribela/vim-transparent](https://github.com/tribela/vim-transparent) - Remove all background color on Vim
 * [vim-scripts/DoxygenToolkit.vim](https://github.com/vim-scripts/DoxygenToolkit.vim) - Simplify Doxygen documentation in C, C++, Python.
 * [4513ECHO/vim-colors-hatsunemiku](https://github.com/4513ECHO/vim-colors-hatsunemiku) - 💚 A vim colorscheme for 初音ミク/Hatsune Miku-san lovers
 * [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management for Neovim
 * [james9909/stackanswers.vim](https://github.com/james9909/stackanswers.vim) - Vim plugin to fetch and display answers from Stack Overflow
-* [tribela/vim-transparent](https://github.com/tribela/vim-transparent) - Remove all background color on Vim
 * [xolox/vim-shell](https://github.com/xolox/vim-shell) - Improved integration between Vim and its environment (fullscreen, open URL, background command execution)
 * [blueshirts/darcula](https://github.com/blueshirts/darcula) - VIM Darcula Theme
 * [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
