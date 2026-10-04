@@ -162,10 +162,10 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 * [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 * [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
-* [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
-* [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 * [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
+* [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 * [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
+* [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 * [tpope/vim-rails](https://github.com/tpope/vim-rails) - rails.vim: Ruby on Rails power tools
 * [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines *(archived)*
 * [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
@@ -188,12 +188,12 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
 * [Shougo/neocomplete.vim](https://github.com/Shougo/neocomplete.vim) - Next generation completion framework after neocomplcache
 * [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
-* [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 * [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
+* [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 * [preservim/vim-indent-guides](https://github.com/preservim/vim-indent-guides) - A Vim plugin for visually displaying indent levels in code
 * [thinkpixellab/flatland](https://github.com/thinkpixellab/flatland) - Flatland is a simple theme and accompanying color scheme for Sublime Text 2. *(archived)*
-* [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 * [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
+* [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 * [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 * [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 * [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
@@ -202,8 +202,8 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [preservim/vimux](https://github.com/preservim/vimux) - easily interact with tmux from vim
 * [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 * [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
-* [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 * [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
+* [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 * [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
 * [rakr/vim-one](https://github.com/rakr/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
 * [msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim. *(archived)*
@@ -219,13 +219,13 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [leafgarland/typescript-vim](https://github.com/leafgarland/typescript-vim) - Typescript syntax files for Vim
 * [tpope/vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
 * [nanotech/jellybeans.vim](https://github.com/nanotech/jellybeans.vim) - A colorful, dark color scheme for Vim.
-* [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
 * [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
+* [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
 * [OmniSharp/omnisharp-vim](https://github.com/OmniSharp/omnisharp-vim) - Vim omnicompletion (intellisense) and more for C#
 * [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
 * [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace) - Vim Space Controller
-* [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace) - fireplace.vim: Clojure REPL support
 * [junegunn/seoul256.vim](https://github.com/junegunn/seoul256.vim) - :deciduous_tree: Low-contrast Vim color scheme based on Seoul Colors
+* [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace) - fireplace.vim: Clojure REPL support
 * [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script) - CoffeeScript support for vim
 * [Shougo/neocomplcache.vim](https://github.com/Shougo/neocomplcache.vim) - Ultimate auto-completion system for Vim.
 * [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A text searching plugin mimics Ctrl-Shift-F on Sublime Text 2
@@ -254,13 +254,13 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap: netrW => netrL
 * [posva/vim-vue](https://github.com/posva/vim-vue) - Syntax Highlight for Vue.js components
 * [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
-* [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
 * [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
+* [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
 * [tpope/vim-markdown](https://github.com/tpope/vim-markdown) - Vim Markdown runtime files
 * [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 * [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
-* [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 * [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
+* [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 * [tpope/vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: Wisely add
 * [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
 * [zenbones-theme/zenbones.nvim](https://github.com/zenbones-theme/zenbones.nvim) - 🪨 A collection of contrast-based Vim/Neovim colorschemes
@@ -281,32 +281,32 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals! *(archived)*
 * [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 * [fholgado/minibufexpl.vim](https://github.com/fholgado/minibufexpl.vim) - Elegant buffer explorer - takes very little screen space
-* [xolox/vim-easytags](https://github.com/xolox/vim-easytags) - Automated tag file generation and syntax highlighting of tags in Vim
 * [tomasiser/vim-code-dark](https://github.com/tomasiser/vim-code-dark) - Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code
+* [xolox/vim-easytags](https://github.com/xolox/vim-easytags) - Automated tag file generation and syntax highlighting of tags in Vim
 * [joseotaviorf/dash.vim](https://github.com/joseotaviorf/dash.vim) - Search Dash.app from Vim
 * [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) - async completion in pure vim script for vim8 and neovim
 * [jalvesaq/Vim-R](https://github.com/jalvesaq/Vim-R) - Vim plugin to work with R
 * [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) - :flashlight: [Vim script] JSX and TSX syntax pretty highlighting for vim.
 * [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - pandoc integration and utilities for vim
-* [artur-shaik/vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2) - DEPRECATED in favor of jc.nvim
 * [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) *(archived)*
+* [artur-shaik/vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2) - DEPRECATED in favor of jc.nvim
 * [xolox/vim-session](https://github.com/xolox/vim-session) - Extended session management for Vim (:mksession on steroids)
 * [kien/rainbow_parentheses.vim](https://github.com/kien/rainbow_parentheses.vim) - Better Rainbow Parentheses
 * [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers! *(archived)*
 * [lifepillar/vim-mucomplete](https://github.com/lifepillar/vim-mucomplete) - Chained completion that works the way you want! *(archived)*
-* [othree/html5.vim](https://github.com/othree/html5.vim) - HTML5 omnicomplete and syntax
 * [romainl/Apprentice](https://github.com/romainl/Apprentice) - A dark, low-contrast, Vim colorscheme.
+* [othree/html5.vim](https://github.com/othree/html5.vim) - HTML5 omnicomplete and syntax
 * [jnurmine/Zenburn](https://github.com/jnurmine/Zenburn) - Zenburn is a low-contrast color scheme for Vim.
 * [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
-* [takac/vim-hardtime](https://github.com/takac/vim-hardtime) - Plugin to help you stop repeating the basic movement keys
 * [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - An occult color scheme for (n)vim. Perform your dark magick using clearly defined contrasting colors with a pinch of earthly tint for that lived-in feel.
+* [takac/vim-hardtime](https://github.com/takac/vim-hardtime) - Plugin to help you stop repeating the basic movement keys
 * [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
 * [Shougo/vimfiler.vim](https://github.com/Shougo/vimfiler.vim) - :file_folder: Powerful file explorer implemented by Vim script
 * [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
 * [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 * [pineapplegiant/spaceduck](https://github.com/pineapplegiant/spaceduck) - 🚀 🦆 An intergalactic space theme for Vim, Terminal, and more!
-* [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview) - A Vim Plugin for Lively Previewing LaTeX PDF Output
 * [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
+* [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview) - A Vim Plugin for Lively Previewing LaTeX PDF Output
 * [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 * [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 * [raphamorim/lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm
@@ -316,23 +316,23 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [digitaltoad/vim-pug](https://github.com/digitaltoad/vim-pug) - Vim Pug (formerly Jade) template engine syntax highlighting and indention
 * [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
 * [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion) - Database autocompletion powered by https://github.com/tpope/vim-dadbod
-* [tiagofumo/vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight) - Extra syntax and highlight for nerdtree files
 * [michaeljsmith/vim-indent-object](https://github.com/michaeljsmith/vim-indent-object) - Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.
-* [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
 * [yegappan/lsp](https://github.com/yegappan/lsp) - Language Server Protocol (LSP) plugin for Vim9
-* [alvan/vim-closetag](https://github.com/alvan/vim-closetag) - Auto close (X)HTML tags
+* [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
+* [tiagofumo/vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight) - Extra syntax and highlight for nerdtree files
 * [z4p5a9/blamer.nvim](https://github.com/z4p5a9/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
+* [alvan/vim-closetag](https://github.com/alvan/vim-closetag) - Auto close (X)HTML tags
 * [JuliaEditorSupport/julia-vim](https://github.com/JuliaEditorSupport/julia-vim) - Vim support for Julia.
 * [markonm/traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim
 * [gabrielelana/vim-markdown](https://github.com/gabrielelana/vim-markdown) - Markdown for Vim: a complete environment to create Markdown files with a syntax highlight that doesn't suck!
-* [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
 * [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
 * [myusuf3/numbers.vim](https://github.com/myusuf3/numbers.vim) - numbers.vim is a vim plugin for better line numbers
+* [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
 * [embark-theme/vim](https://github.com/embark-theme/vim) - An ambitious theme for vim
 * [onivim/libvim](https://github.com/onivim/libvim) - libvim: The core Vim editing engine as a minimal C library
 * [svermeulen/vim-easyclip](https://github.com/svermeulen/vim-easyclip) - Simplified clipboard functionality for Vim
-* [jelera/vim-javascript-syntax](https://github.com/jelera/vim-javascript-syntax) - Enhanced javascript syntax file for Vim
 * [chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn) - A Narrow Region Plugin for vim (like Emacs Narrow Region)
+* [jelera/vim-javascript-syntax](https://github.com/jelera/vim-javascript-syntax) - Enhanced javascript syntax file for Vim
 * [ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 * [spolu/dwm.vim](https://github.com/spolu/dwm.vim) - Tiled Window Management for Vim
 * [Konfekt/FastFold](https://github.com/Konfekt/FastFold) - Speed up Vim by updating folds only when called-for.
@@ -341,22 +341,22 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease) - scriptease.vim: A Vim plugin for Vim plugins
 * [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim) - Custom Haskell Vimscripts
-* [jeffkreeftmeijer/vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
 * [romainl/vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window.
+* [jeffkreeftmeijer/vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
 * [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim) - Ranger integration in vim and neovim
 * [HerringtonDarkholme/yats.vim](https://github.com/HerringtonDarkholme/yats.vim) - Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim
 * [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
 * [vim-scripts/taglist.vim](https://github.com/vim-scripts/taglist.vim) - Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
 * [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
 * [dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
-* [ets-labs/python-vimrc](https://github.com/ets-labs/python-vimrc) - VIM Configuration for Python / Cython / C Development
 * [tmhedberg/SimpylFold](https://github.com/tmhedberg/SimpylFold) - No-BS Python code folding for Vim
-* [lunacookies/vim-colors-xcode](https://github.com/lunacookies/vim-colors-xcode) - Xcode 11’s dark and light colourschemes for Vim
+* [ets-labs/python-vimrc](https://github.com/ets-labs/python-vimrc) - VIM Configuration for Python / Cython / C Development
 * [guns/vim-sexp](https://github.com/guns/vim-sexp) - Precision Editing for S-expressions
+* [lunacookies/vim-colors-xcode](https://github.com/lunacookies/vim-colors-xcode) - Xcode 11’s dark and light colourschemes for Vim
 * [challenger-deep-theme/vim](https://github.com/challenger-deep-theme/vim) - FlatColor vim colorscheme
-* [yuttie/comfortable-motion.vim](https://github.com/yuttie/comfortable-motion.vim) - Brings physics-based smooth scrolling to the Vim world!
 * [tpope/vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 * [skammer/vim-css-color](https://github.com/skammer/vim-css-color) - Highlight colors in css files
+* [yuttie/comfortable-motion.vim](https://github.com/yuttie/comfortable-motion.vim) - Brings physics-based smooth scrolling to the Vim world!
 * [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - A vim / nvim plugin that intelligently reopens files at your last edit position.
 * [cespare/vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 * [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
@@ -364,31 +364,31 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
 * [racer-rust/vim-racer](https://github.com/racer-rust/vim-racer) - Racer support for Vim
 * [preservim/vim-colors-pencil](https://github.com/preservim/vim-colors-pencil) - Light (& dark) color scheme inspired by iA Writer
-* [wklken/vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
+* [othree/javascript-libraries-syntax.vim](https://github.com/othree/javascript-libraries-syntax.vim) - Syntax for JavaScript libraries
 * [bkad/CamelCaseMotion](https://github.com/bkad/CamelCaseMotion) - A vim script to provide CamelCase motion through words (fork of inkarkat's camelcasemotion script)
 * [junegunn/vim-emoji](https://github.com/junegunn/vim-emoji) - :smiley: Emoji in Vim
-* [othree/javascript-libraries-syntax.vim](https://github.com/othree/javascript-libraries-syntax.vim) - Syntax for JavaScript libraries
 * [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword) - Underlines the word under the cursor
-* [kaicataldo/material.vim](https://github.com/kaicataldo/material.vim) - 🎨 A port of the Material color scheme for Vim/Neovim
+* [wklken/vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
 * [bfrg/vim-c-cpp-modern](https://github.com/bfrg/vim-c-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11..26)
+* [kaicataldo/material.vim](https://github.com/kaicataldo/material.vim) - 🎨 A port of the Material color scheme for Vim/Neovim
 * [gcmt/wildfire.vim](https://github.com/gcmt/wildfire.vim) - Smart selection of the closest text object *(archived)*
-* [wikitopian/hardmode](https://github.com/wikitopian/hardmode) - Vim: Hard Mode (deprecated)
 * [jaywcjlove/vim-web](https://github.com/jaywcjlove/vim-web) - ◈ 搞得像IDE一样的Vim，安装配置自己的Vim。
+* [wikitopian/hardmode](https://github.com/wikitopian/hardmode) - Vim: Hard Mode (deprecated)
 * [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name [Archived because I'm no longer using this] *(archived)*
 * [groenewege/vim-less](https://github.com/groenewege/vim-less) - vim syntax for LESS (dynamic CSS)
 * [tpope/vim-haml](https://github.com/tpope/vim-haml) - Vim runtime files for Haml, Sass, and SCSS
 * [shawncplus/phpcomplete.vim](https://github.com/shawncplus/phpcomplete.vim) - Improved PHP omnicompletion
-* [osyo-manga/vim-over](https://github.com/osyo-manga/vim-over) - :substitute preview
 * [romainl/vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
+* [osyo-manga/vim-over](https://github.com/osyo-manga/vim-over) - :substitute preview
 * [Shougo/echodoc.vim](https://github.com/Shougo/echodoc.vim) - Print documents in echo area.
 * [farazdagi/vim-go-ide](https://github.com/farazdagi/vim-go-ide) - Ready to use, fully configured for Go development.
+* [xero/miasma.nvim](https://github.com/xero/miasma.nvim) - a fog descends upon your editor ☁ dark color scheme inspired by the woods for vim and neovim
 * [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
 * [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) - Elm plugin for Vim
 * [tao12345666333/vim](https://github.com/tao12345666333/vim) - My Vim configuration more Python, Javascript, Vue.js, Golang and Markdown, will add Haskell, Ruby and C/C++
 * [marcoieni/intellimacs](https://github.com/marcoieni/intellimacs) - Spacemacs' like key bindings for IntelliJ platform.
 * [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
 * [ziglang/zig.vim](https://github.com/ziglang/zig.vim) - Vim configuration for Zig *(archived)*
-* [xero/miasma.nvim](https://github.com/xero/miasma.nvim) - a fog descends upon your editor ☁ dark color scheme inspired by the woods for vim and neovim
 * [jremmen/vim-ripgrep](https://github.com/jremmen/vim-ripgrep) - Use RipGrep in Vim and display results in a quickfix list
 * [vim-latex/vim-latex](https://github.com/vim-latex/vim-latex) - Enhanced LaTeX support for Vim
 * [dodie/vim-disapprove-deep-indentation](https://github.com/dodie/vim-disapprove-deep-indentation) - ಠ_ಠ Vim plugin to disapprove deeply indented code. ಠ_ಠ
@@ -405,42 +405,42 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim) - Open URI with your favorite browser from your most favorite editor
 * [jaredgorski/SpaceCamp](https://github.com/jaredgorski/SpaceCamp) - 🔭 Vim colors for the final frontier
 * [ecomba/vim-ruby-refactoring](https://github.com/ecomba/vim-ruby-refactoring) - Refactoring tool for Ruby in vim!
-* [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim) - Vim plugin for insert mode completion of words in adjacent tmux panes
 * [flow/vim-flow](https://github.com/flow/vim-flow) - A vim plugin for Flow *(archived)*
+* [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim) - Vim plugin for insert mode completion of words in adjacent tmux panes
 * [jparise/vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.
 * [barretlee/autoconfig-mac-vimrc](https://github.com/barretlee/autoconfig-mac-vimrc) - autoconfig mac vimrc with bundle
 * [haishanh/night-owl.vim](https://github.com/haishanh/night-owl.vim) - A 24bit dark Vim colorscheme based on sdras/night-owl-vscode-theme
 * [lanx-x/NeoSolarized](https://github.com/lanx-x/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 * [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
-* [rodjek/vim-puppet](https://github.com/rodjek/vim-puppet) - Puppet niceties for your Vim setup
 * [bling/vim-bufferline](https://github.com/bling/vim-bufferline) - super simple vim plugin to show the list of buffers in the command bar
 * [vim-perl/vim-perl](https://github.com/vim-perl/vim-perl) - Support for Perl 5 in Vim
+* [rodjek/vim-puppet](https://github.com/rodjek/vim-puppet) - Puppet niceties for your Vim setup
 * [aklt/plantuml-syntax](https://github.com/aklt/plantuml-syntax) - vim syntax file for plantuml
 * [jeetsukumaran/vim-buffergator](https://github.com/jeetsukumaran/vim-buffergator) - Vim plugin to list, select and switch between buffers.
 * [Townk/vim-autoclose](https://github.com/Townk/vim-autoclose) - This plugin for Vim enable an auto-close chars feature for you. For instance if you type an '(', ``autoclose`` will automatically insert a ')' and put the cursor between than. *(archived)*
 * [lyokha/vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch) - vim plugin for automatic keyboard layout switching in insert mode
-* [ConradIrwin/vim-bracketed-paste](https://github.com/ConradIrwin/vim-bracketed-paste) - Handles bracketed-paste-mode in vim (aka. automatic `:set paste`)
-* [tomlion/vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
 * [rainglow/vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
+* [tomlion/vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
+* [ConradIrwin/vim-bracketed-paste](https://github.com/ConradIrwin/vim-bracketed-paste) - Handles bracketed-paste-mode in vim (aka. automatic `:set paste`)
 * [AlessandroYorba/Alduin](https://github.com/AlessandroYorba/Alduin) - A Vim Colorscheme
-* [jaxbot/semantic-highlight.vim](https://github.com/jaxbot/semantic-highlight.vim) - Semantic Highlighting for Vim
 * [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc) - Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
+* [jaxbot/semantic-highlight.vim](https://github.com/jaxbot/semantic-highlight.vim) - Semantic Highlighting for Vim
 * [vlime/vlime](https://github.com/vlime/vlime) - A Common Lisp dev environment for Vim (and Neovim)
 * [kepbod/ivim](https://github.com/kepbod/ivim) - I love Vim, and I also love modifying it to be more convenient and efficient. So I name it "ivim"! Welcome to contribute to ivim.
 * [camspiers/lens.vim](https://github.com/camspiers/lens.vim) - A Vim Automatic Window Resizing Plugin
+* [thaerkh/vim-workspace](https://github.com/thaerkh/vim-workspace) - 📑 Automated Vim session management with file auto-save and persistent undo history *(archived)*
 * [crusoexia/vim-monokai](https://github.com/crusoexia/vim-monokai) - Refined Monokai color scheme for vim, inspired by Sublime Text
 * [goldfeld/vim-seek](https://github.com/goldfeld/vim-seek) - Seek makes navigating long lines effortless, acting like f but taking two characters.
-* [thaerkh/vim-workspace](https://github.com/thaerkh/vim-workspace) - 📑 Automated Vim session management with file auto-save and persistent undo history *(archived)*
 * [wesQ3/vim-windowswap](https://github.com/wesQ3/vim-windowswap) - Swap your windows without ruining your layout
-* [wincent/terminus](https://github.com/wincent/terminus) - 🖥 Enhanced terminal integration for Vim
 * [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - A Vim plugin which saves files to disk automatically.
-* [DamZiobro/vim-ide](https://github.com/DamZiobro/vim-ide) - VIM configured as powerful IDE (Integrated Development Environment)
 * [rakr/vim-two-firewatch](https://github.com/rakr/vim-two-firewatch) - A blend between duotone light and firewatch for atom
+* [DamZiobro/vim-ide](https://github.com/DamZiobro/vim-ide) - VIM configured as powerful IDE (Integrated Development Environment)
+* [wincent/terminus](https://github.com/wincent/terminus) - 🖥 Enhanced terminal integration for Vim
 * [isRuslan/vim-es6](https://github.com/isRuslan/vim-es6) - List of JavaScript ES6 snippets and syntax highlighting for vim.
 * [chrisbra/unicode.vim](https://github.com/chrisbra/unicode.vim) - A Vim plugin that provides a completion function for Unicode glyphs
 * [scrooloose/vim-slumlord](https://github.com/scrooloose/vim-slumlord) - Inline previews for Plantuml sequence diagrams. OMG!
-* [mustache/vim-mustache-handlebars](https://github.com/mustache/vim-mustache-handlebars) - mustache and handlebars mode for vim
 * [vimpostor/vim-tpipeline](https://github.com/vimpostor/vim-tpipeline) - Embed your vim statusline in tmux
+* [mustache/vim-mustache-handlebars](https://github.com/mustache/vim-mustache-handlebars) - mustache and handlebars mode for vim
 * [heavenshell/vim-jsdoc](https://github.com/heavenshell/vim-jsdoc) - Generate JSDoc to your JavaScript code.
 * [tpope/vim-sexp-mappings-for-regular-people](https://github.com/tpope/vim-sexp-mappings-for-regular-people) - vim-sexp mappings for regular people
 * [bronson/vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) - Highlights trailing whitespace in red and provides :FixWhitespace to fix it.
@@ -452,169 +452,170 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [sindresorhus/focus](https://github.com/sindresorhus/focus) - Code editor color theme that lets you focus on the content. Available for Sublime Text, Atom, TextMate, Vim, Chocolat, and more...
 * [romainl/flattened](https://github.com/romainl/flattened) - Solarized, without the bullshit.
 * [jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete) - 杭州市余杭区最好用的 VIM/NVIM 代码补全插件
-* [dag/vim-fish](https://github.com/dag/vim-fish) - Vim support for editing fish scripts
 * [eagletmt/ghcmod-vim](https://github.com/eagletmt/ghcmod-vim) - Happy Haskell programming on Vim, powered by ghc-mod
 * [knubie/vim-kitty-navigator](https://github.com/knubie/vim-kitty-navigator) - Seamless navigation between kitty panes and vim splits
 * [hsanson/vim-android](https://github.com/hsanson/vim-android) - Android development plugin for vim
 * [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) - pandoc markdown syntax, to be installed alongside vim-pandoc
+* [dag/vim-fish](https://github.com/dag/vim-fish) - Vim support for editing fish scripts
+* [thiagoalessio/rainbow_levels.vim](https://github.com/thiagoalessio/rainbow_levels.vim) - A different approach to code highlighting.
 * [vim-crystal/vim-crystal](https://github.com/vim-crystal/vim-crystal) - Vim filetype and tools support for Crystal language.
+* [jonathanfilip/vim-lucius](https://github.com/jonathanfilip/vim-lucius) - Lucius color scheme for vim
 * [vhda/verilog_systemverilog.vim](https://github.com/vhda/verilog_systemverilog.vim) - Verilog/SystemVerilog Syntax and Omni-completion
 * [guns/vim-clojure-static](https://github.com/guns/vim-clojure-static) - Meikel Brandmeyer's excellent Clojure runtime files
-* [thiagoalessio/rainbow_levels.vim](https://github.com/thiagoalessio/rainbow_levels.vim) - A different approach to code highlighting.
-* [jonathanfilip/vim-lucius](https://github.com/jonathanfilip/vim-lucius) - Lucius color scheme for vim
 * [bling/dotvim](https://github.com/bling/dotvim) - lean & mean vim distribution
 * [jnwhiteh/vim-golang](https://github.com/jnwhiteh/vim-golang) - Github mirror of Go vimscripts, synced with main repository
 * [thosakwe/vim-flutter](https://github.com/thosakwe/vim-flutter) - Vim commands for Flutter, including hot-reload-on-save and more. 🦋
 * [AndrewRadev/tagalong.vim](https://github.com/AndrewRadev/tagalong.vim) - Change an HTML(ish) opening tag and take the closing one along as well
 * [tpope/vim-tbone](https://github.com/tpope/vim-tbone) - tbone.vim: tmux basics
-* [WolfgangMehner/vim-plugins](https://github.com/WolfgangMehner/vim-plugins) - Vim plug-ins which offer support for various programming languages.
 * [vim-scripts/YankRing.vim](https://github.com/vim-scripts/YankRing.vim) - Maintains a history of previous yanks, changes and deletes
+* [ruchee/vimrc](https://github.com/ruchee/vimrc) - Ruchee's Vim Config Files *(archived)*
 * [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon) - Vim plugin for generating images of source code using https://github.com/Aloxaf/silicon
 * [derekwyatt/vim-config](https://github.com/derekwyatt/vim-config) - My Vim configuration
+* [WolfgangMehner/vim-plugins](https://github.com/WolfgangMehner/vim-plugins) - Vim plug-ins which offer support for various programming languages.
 * [gosukiwi/vim-atom-dark](https://github.com/gosukiwi/vim-atom-dark) - A vim theme inspired by Atom's default dark theme
-* [ruchee/vimrc](https://github.com/ruchee/vimrc) - Ruchee's Vim Config Files *(archived)*
-* [KeitaNakamura/neodark.vim](https://github.com/KeitaNakamura/neodark.vim) - A dark color scheme for vim
 * [chemzqm/wxapp.vim](https://github.com/chemzqm/wxapp.vim) - 提供微信小程序开发全方位支持的 vim 插件
+* [KeitaNakamura/neodark.vim](https://github.com/KeitaNakamura/neodark.vim) - A dark color scheme for vim
 * [img-paste-devs/img-paste.vim](https://github.com/img-paste-devs/img-paste.vim) - paste image to markdown
 * [nschurmann/configs](https://github.com/nschurmann/configs) - My neovim configuration
-* [fgheng/vime](https://github.com/fgheng/vime) - vime, an easy and structural config for (neo)vim users
 * [lfv89/vim-interestingwords](https://github.com/lfv89/vim-interestingwords) - 🎨 A plugin for seamlessly highlighting and navigating through words
-* [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
 * [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
-* [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
+* [fgheng/vime](https://github.com/fgheng/vime) - vime, an easy and structural config for (neo)vim users
+* [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
 * [mtth/scratch.vim](https://github.com/mtth/scratch.vim) - Unobtrusive scratch window *(archived)*
-* [tmsvg/pear-tree](https://github.com/tmsvg/pear-tree) - A Vim auto-pair plugin that supports multi-character pairs, intelligent matching, and more
 * [tacahiroy/ctrlp-funky](https://github.com/tacahiroy/ctrlp-funky) - A super simple function navigator for ctrlp.vim
+* [tmsvg/pear-tree](https://github.com/tmsvg/pear-tree) - A Vim auto-pair plugin that supports multi-character pairs, intelligent matching, and more
+* [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 * [tweekmonster/braceless.vim](https://github.com/tweekmonster/braceless.vim) - :snake: Text objects, folding, and more for Python and other indented languages.
 * [patstockwell/vim-monokai-tasty](https://github.com/patstockwell/vim-monokai-tasty) - VIM Colour scheme
 * [antoinemadec/coc-fzf](https://github.com/antoinemadec/coc-fzf) - fzf :heart: coc.nvim
 * [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
+* [kaarmu/typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 * [doums/darcula](https://github.com/doums/darcula) - A Vim color scheme reproduction of the official JetBrains IDE Darcula theme *(archived)*
 * [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - A vim plugin to access cheat.sh sheets
 * [guns/xterm-color-table.vim](https://github.com/guns/xterm-color-table.vim) - All 256 xterm colors with their RGB equivalents, right in Vim!
-* [kaarmu/typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 * [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
 * [aperezdc/vim-template](https://github.com/aperezdc/vim-template) - Simple templates plugin for Vim
-* [tyru/caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
-* [grigio/vim-sublime](https://github.com/grigio/vim-sublime) - A ready to use minimal Vim (Sublime Text -like) .vimrc configuration
-* [kaochenlong/eddie-vim](https://github.com/kaochenlong/eddie-vim) - Yet another vimrc
-* [cormacrelf/vim-colors-github](https://github.com/cormacrelf/vim-colors-github) - A Vim colorscheme based on Github's syntax highlighting as of 2018.
-* [42paris/42header](https://github.com/42paris/42header) - 42 header
-* [ctjhoa/spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
 * [catppuccin/vim](https://github.com/catppuccin/vim) - 🧋 Soothing pastel theme for Vim
+* [grigio/vim-sublime](https://github.com/grigio/vim-sublime) - A ready to use minimal Vim (Sublime Text -like) .vimrc configuration
+* [tyru/caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
+* [kaochenlong/eddie-vim](https://github.com/kaochenlong/eddie-vim) - Yet another vimrc
+* [danilo-augusto/vim-afterglow](https://github.com/danilo-augusto/vim-afterglow) - Vim adaptation of the Afterglow colorscheme
+* [42paris/42header](https://github.com/42paris/42header) - 42 header
+* [cormacrelf/vim-colors-github](https://github.com/cormacrelf/vim-colors-github) - A Vim colorscheme based on Github's syntax highlighting as of 2018.
+* [ctjhoa/spacevim](https://github.com/ctjhoa/spacevim) - Spacemacs for vim
+* [stefandtw/quickfix-reflector.vim](https://github.com/stefandtw/quickfix-reflector.vim) - Change code right in the quickfix window
 * [toyamarinyon/vim-swift](https://github.com/toyamarinyon/vim-swift) - Adds Swift support to vim. It covers syntax, intenting, and more.
 * [wuelnerdotexe/vim-enfocado](https://github.com/wuelnerdotexe/vim-enfocado) - How themes should be.
-* [google/vim-searchindex](https://github.com/google/vim-searchindex) - vim-searchindex: display number of search matches & index of a current match *(archived)*
 * [kamykn/spelunker.vim](https://github.com/kamykn/spelunker.vim) - Improved vim spelling plugin (with camel case support)!
-* [stefandtw/quickfix-reflector.vim](https://github.com/stefandtw/quickfix-reflector.vim) - Change code right in the quickfix window
-* [danilo-augusto/vim-afterglow](https://github.com/danilo-augusto/vim-afterglow) - Vim adaptation of the Afterglow colorscheme
 * [hzchirs/vim-material](https://github.com/hzchirs/vim-material) - 🧩 Visual Studio Code Material Theme port for Vim/Neovim
 * [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
+* [google/vim-searchindex](https://github.com/google/vim-searchindex) - vim-searchindex: display number of search matches & index of a current match *(archived)*
 * [hdima/python-syntax](https://github.com/hdima/python-syntax) - Python syntax highlighting script for Vim
 * [szw/vim-tags](https://github.com/szw/vim-tags) - Ctags generator for Vim
 * [christoomey/vim-system-copy](https://github.com/christoomey/vim-system-copy) - Vim plugin for copying to the system clipboard with text-objects and motions
 * [justmao945/vim-clang](https://github.com/justmao945/vim-clang) - Clang completion plugin for vim
 * [eagletmt/neco-ghc](https://github.com/eagletmt/neco-ghc) - A completion plugin for Haskell, using ghc-mod
-* [cassidoo/vim-up](https://github.com/cassidoo/vim-up) - A bunch of vim shortcuts, colors, and bundles to make your life easier
 * [Glench/Vim-Jinja2-Syntax](https://github.com/Glench/Vim-Jinja2-Syntax) - An up-to-date jinja2 syntax file.
-* [tmux-plugins/vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) - Make terminal vim and tmux work better together.
+* [cassidoo/vim-up](https://github.com/cassidoo/vim-up) - A bunch of vim shortcuts, colors, and bundles to make your life easier
 * [lilydjwg/colorizer](https://github.com/lilydjwg/colorizer) - A Vim plugin to colorize all text in the form #rrggbb or #rgb. *(archived)*
 * [rstacruz/vim-closer](https://github.com/rstacruz/vim-closer) - Closes brackets
 * [eugen0329/vim-esearch](https://github.com/eugen0329/vim-esearch) - Perform search in files easily
-* [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
 * [gko/vim-coloresque](https://github.com/gko/vim-coloresque) - css/less/sass/html color preview for vim
+* [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
 * [tpope/vim-ragtag](https://github.com/tpope/vim-ragtag) - ragtag.vim: ghetto HTML/XML mappings (formerly allml.vim)
+* [tmux-plugins/vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) - Make terminal vim and tmux work better together.
 * [mattn/vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
 * [slim-template/vim-slim](https://github.com/slim-template/vim-slim) - Syntax highlighting for VIM
 * [tmux-plugins/vim-tmux](https://github.com/tmux-plugins/vim-tmux) - vim plugin for tmux.conf
-* [heavenshell/vim-pydocstring](https://github.com/heavenshell/vim-pydocstring) - Generate Python docstring to your Python source code.
-* [mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) - A lightweight plugin to display the list of buffers in the lightline vim plugin
 * [connorholyday/vim-snazzy](https://github.com/connorholyday/vim-snazzy) - Elegant vim theme with bright colors.
+* [mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline) - A lightweight plugin to display the list of buffers in the lightline vim plugin
+* [vim/colorschemes](https://github.com/vim/colorschemes) - colorschemes for Vim
 * [wolandark/wim](https://github.com/wolandark/wim) - This is a Vim configuration that gets you a similar experience as a full-featured IDE. This is accomplished using native vim features with the help of some plugins.
 * [juliosueiras/vim-terraform-completion](https://github.com/juliosueiras/vim-terraform-completion) - A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool
-* [vim-scripts/ReplaceWithRegister](https://github.com/vim-scripts/ReplaceWithRegister) - Replace text with the contents of a register.
 * [blueyed/vim-diminactive](https://github.com/blueyed/vim-diminactive) - Vim plugin to dim inactive windows
+* [heavenshell/vim-pydocstring](https://github.com/heavenshell/vim-pydocstring) - Generate Python docstring to your Python source code.
 * [jackguo380/vim-lsp-cxx-highlight](https://github.com/jackguo380/vim-lsp-cxx-highlight) - Vim plugin for C/C++/ObjC semantic highlighting using cquery, ccls, or clangd *(archived)*
+* [vim-scripts/ReplaceWithRegister](https://github.com/vim-scripts/ReplaceWithRegister) - Replace text with the contents of a register.
 * [wsdjeg/vim-fetch](https://github.com/wsdjeg/vim-fetch) - Make Vim handle line and column numbers in file names with a minimum of fuss
 * [dag/vim2hs](https://github.com/dag/vim2hs) - vim2hs :: Vim -> Haskell
 * [robertmeta/nofrils](https://github.com/robertmeta/nofrils) - An extremely minimalist colorscheme, even opting out of the second L in frills
 * [Shougo/deol.nvim](https://github.com/Shougo/deol.nvim) - Dark powered shell interface for Vim/Neovim
-* [mikewest/vimroom](https://github.com/mikewest/vimroom) - Simulating a vaguely WriteRoom-like environment in Vim. *(archived)*
 * [nelstrom/vim-textobj-rubyblock](https://github.com/nelstrom/vim-textobj-rubyblock) - A custom text object for selecting ruby blocks.
-* [vim/colorschemes](https://github.com/vim/colorschemes) - colorschemes for Vim
 * [ku1ik/vim-pasta](https://github.com/ku1ik/vim-pasta) - Pasting in Vim with indentation adjusted to destination context
-* [szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter) - Edit your Jupyter notebooks in Vim/Neovim *(archived)*
-* [davidoc/taskpaper.vim](https://github.com/davidoc/taskpaper.vim) - This package contains a syntax file and a file-type plugin for the simple format used by the TaskPaper application.
+* [mikewest/vimroom](https://github.com/mikewest/vimroom) - Simulating a vaguely WriteRoom-like environment in Vim. *(archived)*
 * [junegunn/vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
+* [szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter) - Edit your Jupyter notebooks in Vim/Neovim *(archived)*
 * [vim-dist/webvim](https://github.com/vim-dist/webvim) - WebVim is a vim based distribution targeting JavaScript and Web development
-* [justinmk/vim-gtfo](https://github.com/justinmk/vim-gtfo) - Go to Terminal or File manager :point_right:
+* [davidoc/taskpaper.vim](https://github.com/davidoc/taskpaper.vim) - This package contains a syntax file and a file-type plugin for the simple format used by the TaskPaper application.
 * [roman/golden-ratio](https://github.com/roman/golden-ratio) - Automatic resizing of Vim windows to the golden ratio
+* [justinmk/vim-gtfo](https://github.com/justinmk/vim-gtfo) - Go to Terminal or File manager :point_right:
 * [ruanyl/bigvim](https://github.com/ruanyl/bigvim) - Vim configuration
 * [jasonlong/lavalamp](https://github.com/jasonlong/lavalamp) - A text editor theme that visually differentiates languages. *(archived)*
 * [FrenzyExists/aquarium-vim](https://github.com/FrenzyExists/aquarium-vim) - 🌊 Aquarium, a simple vibrant dark theme for vim 🗒
 * [fxn/vim-monochrome](https://github.com/fxn/vim-monochrome) - Monochrome color scheme for Vim
 * [j1z0/vim-config](https://github.com/j1z0/vim-config) - my vim config to share amongst my machines
 * [PProvost/vim-ps1](https://github.com/PProvost/vim-ps1) - A Vim plugin for Windows PowerShell support
+* [terryma/vim-smooth-scroll](https://github.com/terryma/vim-smooth-scroll) - Make scrolling in Vim more pleasant
 * [tlhr/anderson.vim](https://github.com/tlhr/anderson.vim) - Dark vim colorscheme based on colors from Wes Anderson films
 * [tpope/vim-cucumber](https://github.com/tpope/vim-cucumber) - Vim Cucumber runtime files
-* [zefei/vim-wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager for Vim
-* [terryma/vim-smooth-scroll](https://github.com/terryma/vim-smooth-scroll) - Make scrolling in Vim more pleasant
 * [tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
 * [vim-scripts/a.vim](https://github.com/vim-scripts/a.vim) - Alternate Files quickly (.c --> .h etc)
-* [evanleck/vim-svelte](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
+* [zefei/vim-wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager for Vim
 * [Everblush/everblush.vim](https://github.com/Everblush/everblush.vim) - 🎨 A beautiful and dark vim colorscheme.
+* [evanleck/vim-svelte](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
 * [goerz/jupytext.vim](https://github.com/goerz/jupytext.vim) - Vim plugin for editing Jupyter ipynb files via jupytext *(archived)*
 * [dkprice/vim-easygrep](https://github.com/dkprice/vim-easygrep) - Fast and Easy Find and Replace Across Multiple Files
 * [kana/vim-smartinput](https://github.com/kana/vim-smartinput) - Vim plugin: Provide smart input assistant
 * [sjl/vitality.vim](https://github.com/sjl/vitality.vim) - Make Vim play nicely with iTerm 2 and tmux.
 * [tyrannicaltoucan/vim-quantum](https://github.com/tyrannicaltoucan/vim-quantum) - A Material color scheme for Vim.
 * [tpope/vim-vividchalk](https://github.com/tpope/vim-vividchalk) - vividchalk.vim: a colorscheme strangely reminiscent of Vibrant Ink for a certain OS X editor
-* [machakann/vim-swap](https://github.com/machakann/vim-swap) - Reorder delimited items.
 * [dikiaap/minimalist](https://github.com/dikiaap/minimalist) - A Material Color Scheme Darker for Vim.
+* [machakann/vim-swap](https://github.com/machakann/vim-swap) - Reorder delimited items.
 * [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 * [jsfaint/gen_tags.vim](https://github.com/jsfaint/gen_tags.vim) - Async plugin for vim and neovim to ease the use of ctags/gtags *(archived)*
 * [vim-scripts/DrawIt](https://github.com/vim-scripts/DrawIt) - Ascii drawing plugin: lines, ellipses, arrows, fills, and more!
-* [beeender/Comrade](https://github.com/beeender/Comrade) - Brings JetBrains/IntelliJ IDEs magic to Neovim with minimal setup.
 * [drmingdrmer/xptemplate](https://github.com/drmingdrmer/xptemplate) - Code snippets engine for Vim, with snippets library. XPTemplate let you write codes in a smooth, quick and comfortable way.
-* [gregsexton/MatchTag](https://github.com/gregsexton/MatchTag) - Vim's MatchParen for HTML tags
+* [beeender/Comrade](https://github.com/beeender/Comrade) - Brings JetBrains/IntelliJ IDEs magic to Neovim with minimal setup.
 * [bogado/file-line](https://github.com/bogado/file-line) - Plugin for vim to enabling opening a file in a given line
+* [gregsexton/MatchTag](https://github.com/gregsexton/MatchTag) - Vim's MatchParen for HTML tags
 * [liuchengxu/eleline.vim](https://github.com/liuchengxu/eleline.vim) - :herb: Another elegant statusline for vim
 * [peitalin/vim-jsx-typescript](https://github.com/peitalin/vim-jsx-typescript) - React JSX syntax highlighting for vim and Typescript
 * [sloanelybutsurely/vimrc.js](https://github.com/sloanelybutsurely/vimrc.js) - A vimrc that Just Works™ for modern JavaScript development *(archived)*
 * [styled-components/vim-styled-components](https://github.com/styled-components/vim-styled-components) - Vim bundle for http://styled-components.com based javascript files.
 * [sharksforarms/neovim-rust](https://github.com/sharksforarms/neovim-rust) - Sample neovim and vim configurations for Rust development
+* [LnL7/vim-nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix http://nixos.org/nix
 * [wsdjeg/FlyGrep.vim](https://github.com/wsdjeg/FlyGrep.vim) - Asynchronously fly grep in vim
 * [ChristianChiarulli/nvcode-color-schemes.vim](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - A bunch of generated colorschemes (treesitter supported)
-* [LnL7/vim-nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix http://nixos.org/nix
 * [GideonWolfe/vim.reaper](https://github.com/GideonWolfe/vim.reaper) - 💀 A Hackable, Fully Featured, Rice Friendly Neovim Configuration
-* [keith/investigate.vim](https://github.com/keith/investigate.vim) - A Vim plugin for looking up documentation
 * [qpkorr/vim-bufkill](https://github.com/qpkorr/vim-bufkill) - Git repo for http://www.vim.org/scripts/script.php?script_id=1147
-* [tpope/vim-characterize](https://github.com/tpope/vim-characterize) - characterize.vim: Unicode character metadata
+* [keith/investigate.vim](https://github.com/keith/investigate.vim) - A Vim plugin for looking up documentation
 * [dpelle/vim-LanguageTool](https://github.com/dpelle/vim-LanguageTool) - A vim plugin for the LanguageTool grammar checker
 * [FooSoft/vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim *(archived)*
+* [tpope/vim-characterize](https://github.com/tpope/vim-characterize) - characterize.vim: Unicode character metadata
 * [kiteco/vim-plugin](https://github.com/kiteco/vim-plugin) - The Kite plugin for Vim.
 * [christoomey/vim-tmux-runner](https://github.com/christoomey/vim-tmux-runner) - Vim and tmux, sittin' in a tree...
 * [roxma/vim-tmux-clipboard](https://github.com/roxma/vim-tmux-clipboard) - seamless integration for vim and tmux's clipboard
 * [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme) - Tomorrow Theme for Vim
-* [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
 * [AlessandroYorba/Sierra](https://github.com/AlessandroYorba/Sierra) - A Vim Colorscheme
+* [HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog) - automatic-verilog based on vimscript
 * [mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara) - :japanese_goblin: Sane buffer/window deletion.
 * [toothpaste-theme/toothpaste](https://github.com/toothpaste-theme/toothpaste) - Toothpaste is a custom theme for your text editor with flavorful colors
-* [HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog) - automatic-verilog based on vimscript
-* [L0stSoul/vim-config](https://github.com/L0stSoul/vim-config) - Nice vim config for front-end development
+* [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
 * [hecal3/vim-leader-guide](https://github.com/hecal3/vim-leader-guide)
 * [lilydjwg/dotvim](https://github.com/lilydjwg/dotvim) - My vim config
 * [stykhomyrov/vim-glsl](https://github.com/stykhomyrov/vim-glsl) - Vim runtime files for OpenGL Shading Language
+* [L0stSoul/vim-config](https://github.com/L0stSoul/vim-config) - Nice vim config for front-end development
 * [metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme) - A collection of Black Metal inspired base16 schemes.
-* [ehamberg/vim-cute-python](https://github.com/ehamberg/vim-cute-python) - Unicode goodness for Python code using vim's “conceal” feature
-* [lyuts/vim-rtags](https://github.com/lyuts/vim-rtags) - Vim bindings for rtags, llvm/clang based c++ code indexer. *(archived)*
-* [nvimdev/spaceline.vim](https://github.com/nvimdev/spaceline.vim) - vim statusline like spacemacs
-* [wting/rust.vim](https://github.com/wting/rust.vim) - Vim support for Rust file detection and syntax highlighting.
 * [cocopon/vaffle.vim](https://github.com/cocopon/vaffle.vim) - :file_folder: Lightweight, window-based file manager for Vim
-* [dodie/vim-fibo-indent](https://github.com/dodie/vim-fibo-indent) - Fibonacci Indentation for Vim.
-* [neoclide/vim-jsx-improve](https://github.com/neoclide/vim-jsx-improve) - Syntax and indent plugin for React jsx.
+* [ehamberg/vim-cute-python](https://github.com/ehamberg/vim-cute-python) - Unicode goodness for Python code using vim's “conceal” feature
+* [wting/rust.vim](https://github.com/wting/rust.vim) - Vim support for Rust file detection and syntax highlighting.
+* [lyuts/vim-rtags](https://github.com/lyuts/vim-rtags) - Vim bindings for rtags, llvm/clang based c++ code indexer. *(archived)*
 * [noahfrederick/vim-hemisu](https://github.com/noahfrederick/vim-hemisu) - A Vim color scheme with dark and light variants
+* [nvimdev/spaceline.vim](https://github.com/nvimdev/spaceline.vim) - vim statusline like spacemacs
 * [nanotee/zoxide.vim](https://github.com/nanotee/zoxide.vim) - A small (Neo)Vim wrapper for zoxide
+* [neoclide/vim-jsx-improve](https://github.com/neoclide/vim-jsx-improve) - Syntax and indent plugin for React jsx.
+* [dodie/vim-fibo-indent](https://github.com/dodie/vim-fibo-indent) - Fibonacci Indentation for Vim.
+* [owickstrom/vim-colors-paramount](https://github.com/owickstrom/vim-colors-paramount) - A minimal colorscheme for Vim that only puts emphasis on the paramount.
 * [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu) - :sunglasses: Display the Completion Menu Automantically (next AutoComplPop) !!
 * [wavded/vim-stylus](https://github.com/wavded/vim-stylus) - Syntax Highlighting for Stylus
 * [skywind3000/gutentags_plus](https://github.com/skywind3000/gutentags_plus) - The right way to use gtags with gutentags
@@ -622,91 +623,90 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [victorvoid/vim-frontend](https://github.com/victorvoid/vim-frontend) - :star: Vim Frontend is a Vim configured for Front-end Developers. *(archived)*
 * [osyo-manga/vim-monster](https://github.com/osyo-manga/vim-monster) - Ruby code completion.
 * [pseewald/vim-anyfold](https://github.com/pseewald/vim-anyfold) - Language agnostic vim plugin for folding and motion based on indentation.
-* [vim-scripts/AutoComplPop](https://github.com/vim-scripts/AutoComplPop) - Automatically opens popup menu for completions
 * [lifepillar/pgsql.vim](https://github.com/lifepillar/pgsql.vim) - The best PostgreSQL plugin for Vim! *(archived)*
+* [vim-scripts/AutoComplPop](https://github.com/vim-scripts/AutoComplPop) - Automatically opens popup menu for completions
 * [weirongxu/plantuml-previewer.vim](https://github.com/weirongxu/plantuml-previewer.vim) - Vim / Neovim plugin for preview PlantUML
 * [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) - Vim plugin for the Elm programming language
-* [owickstrom/vim-colors-paramount](https://github.com/owickstrom/vim-colors-paramount) - A minimal colorscheme for Vim that only puts emphasis on the paramount.
 * [preservim/vim-lexical](https://github.com/preservim/vim-lexical) - Build on Vim’s spell/thes/dict completion
 * [rbong/vim-crystalline](https://github.com/rbong/vim-crystalline) - Build your own fancy statusline/tabline in Vim/Neovim
 * [kana/vim-arpeggio](https://github.com/kana/vim-arpeggio) - Vim plugin: Mappings for simultaneously pressed keys
-* [ybian/smartim](https://github.com/ybian/smartim) - A Vim plugin to make it stand well with input methods (Mac only)
 * [azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter) - Highlight words and expressions
+* [ybian/smartim](https://github.com/ybian/smartim) - A Vim plugin to make it stand well with input methods (Mac only)
 * [yegappan/mru](https://github.com/yegappan/mru) - Most Recently Used (MRU) Vim Plugin
 * [google/vim-colorscheme-primary](https://github.com/google/vim-colorscheme-primary) - Primary, a Vim color scheme based on Google's colors *(archived)*
-* [chrisbra/Recover.vim](https://github.com/chrisbra/Recover.vim) - A Plugin to show a diff, whenever recovering a buffer
 * [jeffkreeftmeijer/vim-dim](https://github.com/jeffkreeftmeijer/vim-dim) - Dim (/dɪm/; a contraction of Default IMproved) is a clone of Vim’s default colorscheme, with some improvements.
 * [jpo/vim-railscasts-theme](https://github.com/jpo/vim-railscasts-theme) - A vim color scheme based on the Railscasts Textmate theme.
+* [chrisbra/Recover.vim](https://github.com/chrisbra/Recover.vim) - A Plugin to show a diff, whenever recovering a buffer
 * [dhruvasagar/vim-prosession](https://github.com/dhruvasagar/vim-prosession) - Handle vim sessions like a pro
 * [fladson/vim-kitty](https://github.com/fladson/vim-kitty) - Vim syntax highlighting for Kitty terminal config files
-* [frazrepo/vim-rainbow](https://github.com/frazrepo/vim-rainbow) - Rainbow brackets for Vim *(archived)*
 * [mislav/vimfiles](https://github.com/mislav/vimfiles) - vim configuration – Ruby, Rails, Markdown, SCSS, CoffeeScript
+* [junegunn/vim-journal](https://github.com/junegunn/vim-journal) - :memo:
 * [tenfyzhong/CompleteParameter.vim](https://github.com/tenfyzhong/CompleteParameter.vim) - Complete parameter after select the completion. Integration with YouCompleteMe(ycm), deoplete, neocomplete.
 * [gcmt/taboo.vim](https://github.com/gcmt/taboo.vim) - Few utilities for pretty tabs *(archived)*
-* [junegunn/vim-journal](https://github.com/junegunn/vim-journal) - :memo:
 * [arnaud-lb/vim-php-namespace](https://github.com/arnaud-lb/vim-php-namespace) - PHP namespace support for VIM. Types "use" statements for you
 * [haya14busa/is.vim](https://github.com/haya14busa/is.vim) - incremental search improved - successor of incsearch.vim
 * [christoomey/vim-sort-motion](https://github.com/christoomey/vim-sort-motion) - Vim mapping for sorting a range of text
+* [frazrepo/vim-rainbow](https://github.com/frazrepo/vim-rainbow) - Rainbow brackets for Vim *(archived)*
 * [vim-scripts/FuzzyFinder](https://github.com/vim-scripts/FuzzyFinder) - buffer/file/command/tag/etc explorer with fuzzy matching
 * [jdkanani/vim-material-theme](https://github.com/jdkanani/vim-material-theme) - Material theme for vim *(archived)*
 * [masukomi/vim-markdown-folding](https://github.com/masukomi/vim-markdown-folding) - Fold markdown documents by section.
-* [sjbach/lusty](https://github.com/sjbach/lusty) - LustyExplorer / LustyJuggler for Vim
 * [vim-utils/vim-man](https://github.com/vim-utils/vim-man) - View and grep man pages in vim
-* [yuratomo/w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m plugin for vim
+* [sjbach/lusty](https://github.com/sjbach/lusty) - LustyExplorer / LustyJuggler for Vim
 * [amix/vim-zenroom2](https://github.com/amix/vim-zenroom2) - A Vim extension that emulates iA Writer environment when editing Markdown, reStructuredText or text files
 * [sukima/xmledit](https://github.com/sukima/xmledit) - A filetype plugin for VIM to help edit XML files
+* [yuratomo/w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m plugin for vim
 * [ashfinal/vimrc-config](https://github.com/ashfinal/vimrc-config) - re-vim: sensible vim configuration
 * [justinmk/vim-syntax-extra](https://github.com/justinmk/vim-syntax-extra) - Vim syntax highlighting for c, bison, flex
 * [KabbAmine/vCoolor.vim](https://github.com/KabbAmine/vCoolor.vim) - Simple color selector/picker plugin for Vim.
 * [sd65/MiniVim](https://github.com/sd65/MiniVim) - My way to see Vim.
+* [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim)
 * [osyo-manga/vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
 * [vim-scripts/Conque-Shell](https://github.com/vim-scripts/Conque-Shell) - Run interactive commands inside a Vim buffer
+* [zeis/vim-kolor](https://github.com/zeis/vim-kolor) - Vim color scheme.
 * [kristijanhusak/vim-carbon-now-sh](https://github.com/kristijanhusak/vim-carbon-now-sh) - Open selected text in https://carbon.now.sh
 * [max-baz/lightline-ale](https://github.com/max-baz/lightline-ale) - ALE indicator for the lightline vim plugin
-* [zeis/vim-kolor](https://github.com/zeis/vim-kolor) - Vim color scheme.
 * [spf13/PIV](https://github.com/spf13/PIV) - PHP Integration environment for Vim
 * [skywind3000/vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
 * [dhruvasagar/vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
-* [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim)
 * [meetbill/Vim](https://github.com/meetbill/Vim) - 🚩 一键化打造 Vim IDE 环境(安装只需数秒) 【环境:Linux 64 位】 Vim7.X 可以安装版本1.0
-* [tracyone/vinux](https://github.com/tracyone/vinux) - Swiss Army Knife，Dark power (neo)vim config
 * [TTWShell/legolas-vim](https://github.com/TTWShell/legolas-vim) - Vim配置，为python、go开发者打造的IDE。
-* [franbach/miramare](https://github.com/franbach/miramare) - :maple_leaf: Comfortable & Pleasant Color Scheme for Vim
+* [tracyone/vinux](https://github.com/tracyone/vinux) - Swiss Army Knife，Dark power (neo)vim config
 * [vmware-archive/salt-vim](https://github.com/vmware-archive/salt-vim) - Vim files for editing Salt files *(archived)*
 * [beloglazov/vim-online-thesaurus](https://github.com/beloglazov/vim-online-thesaurus) - A Vim plugin for looking up words in an online thesaurus
+* [chtenb/helix.vim](https://github.com/chtenb/helix.vim) - Emulate Helix keybindings inside Vim emulators
+* [franbach/miramare](https://github.com/franbach/miramare) - :maple_leaf: Comfortable & Pleasant Color Scheme for Vim
 * [pelodelfuego/vim-swoop](https://github.com/pelodelfuego/vim-swoop)
 * [MTDL9/vim-log-highlighting](https://github.com/MTDL9/vim-log-highlighting) - Syntax highlighting for generic log files in VIM
 * [endel/vim-github-colorscheme](https://github.com/endel/vim-github-colorscheme) - A vim colorscheme based on Github's syntax highlighting.
-* [chtenb/helix.vim](https://github.com/chtenb/helix.vim) - Emulate Helix keybindings inside Vim emulators
-* [Rigellute/shades-of-purple.vim](https://github.com/Rigellute/shades-of-purple.vim) - Dark theme for vim
-* [towolf/vim-helm](https://github.com/towolf/vim-helm) - vim syntax for helm templates (yaml + gotmpl + sprig + custom)
 * [Lokaltog/vim-monotone](https://github.com/Lokaltog/vim-monotone) - A dark, monochrome colorscheme for vim
+* [Rigellute/shades-of-purple.vim](https://github.com/Rigellute/shades-of-purple.vim) - Dark theme for vim
 * [nvimdev/oceanic-material](https://github.com/nvimdev/oceanic-material) - Oceanic Material Colorscheme on Vim/NeoVim
+* [towolf/vim-helm](https://github.com/towolf/vim-helm) - vim syntax for helm templates (yaml + gotmpl + sprig + custom)
 * [chrishunt/color-schemes](https://github.com/chrishunt/color-schemes) - Color schemes I've used for an extended period of time and like
 * [zefei/vim-colortuner](https://github.com/zefei/vim-colortuner) - Adjust your vim colors using sliders
 * [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
-* [volgar1x/vim-gocode](https://github.com/volgar1x/vim-gocode) - A Go bundle for Vundle or Pathogen
 * [vivien/vim-linux-coding-style](https://github.com/vivien/vim-linux-coding-style) - Vim plugin to respect the Linux kernel coding style http://www.vim.org/scripts/script.php?script_id=4369
-* [alexey-goloburdin/nvim-config](https://github.com/alexey-goloburdin/nvim-config)
+* [volgar1x/vim-gocode](https://github.com/volgar1x/vim-gocode) - A Go bundle for Vundle or Pathogen
 * [mkitt/tabline.vim](https://github.com/mkitt/tabline.vim) - Configure tabs within Terminal Vim *(archived)*
-* [sts10/vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
+* [alexey-goloburdin/nvim-config](https://github.com/alexey-goloburdin/nvim-config)
 * [wlangstroth/vim-racket](https://github.com/wlangstroth/vim-racket) - vim bundle for Racket
-* [t9md/vim-quickhl](https://github.com/t9md/vim-quickhl) - quickly highlight <cword> or visually selected word
+* [sts10/vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
 * [jeetsukumaran/vim-indentwise](https://github.com/jeetsukumaran/vim-indentwise) - A Vim plugin for indent-level based motion.
 * [roxma/nvim-yarp](https://github.com/roxma/nvim-yarp) - Yet Another Remote Plugin Framework for Neovim
+* [t9md/vim-quickhl](https://github.com/t9md/vim-quickhl) - quickly highlight <cword> or visually selected word
 * [tpope/vim-flagship](https://github.com/tpope/vim-flagship) - flagship.vim: Configurable and extensible tab line and status line
+* [cufarvid/lazy-idea](https://github.com/cufarvid/lazy-idea) - LazyVim key mappings for JetBrains IDEs. Making IdeaVim feel like home.
 * [vim-scripts/vim-auto-save](https://github.com/vim-scripts/vim-auto-save) - Automatically save changes to disk
 * [phanviet/vim-monokai-pro](https://github.com/phanviet/vim-monokai-pro) - Monokai Pro color scheme for Vim / Neovim
 * [jwalton512/vim-blade](https://github.com/jwalton512/vim-blade) - Vim syntax highlighting for Blade templates. *(archived)*
-* [preservim/vim-thematic](https://github.com/preservim/vim-thematic) - Alter Vim's appearance to suit your task & environ
 * [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim) - Vim plugin to control splits with visual selections or text objects
 * [MashMB/nvim-ide](https://github.com/MashMB/nvim-ide) - Neovim as IDE in Docker container.
-* [cufarvid/lazy-idea](https://github.com/cufarvid/lazy-idea) - LazyVim key mappings for JetBrains IDEs. Making IdeaVim feel like home.
+* [preservim/vim-thematic](https://github.com/preservim/vim-thematic) - Alter Vim's appearance to suit your task & environ
 * [dylanaraps/wal.vim](https://github.com/dylanaraps/wal.vim) - 🎨 A vim colorscheme for use with wal *(archived)*
 * [rlue/vim-barbaric](https://github.com/rlue/vim-barbaric) - Automatic input method switching for vim
 * [jdonaldson/vaxe](https://github.com/jdonaldson/vaxe) - A modern, modular vim mode for Haxe.
-* [idris-hackers/idris-vim](https://github.com/idris-hackers/idris-vim) - Idris mode for vim
 * [esamattis/slimux](https://github.com/esamattis/slimux) - SLIME inspired tmux integration plugin for Vim
+* [idris-hackers/idris-vim](https://github.com/idris-hackers/idris-vim) - Idris mode for vim
 * [kana/vim-submode](https://github.com/kana/vim-submode) - Vim plugin: Create your own submodes
 * [dgryski/vim-godef](https://github.com/dgryski/vim-godef) - vim plugin providing godef support *(archived)*
 * [stephpy/vim-yaml](https://github.com/stephpy/vim-yaml) - Override vim syntax for yaml files
@@ -719,19 +719,19 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [alaviss/nim.nvim](https://github.com/alaviss/nim.nvim) - Nim plugin for NeoVim
 * [m2mdas/phpcomplete-extended](https://github.com/m2mdas/phpcomplete-extended) - A fast, extensible, context aware autocomplete plugin for PHP composer projects with code inspection features.
 * [parsonsmatt/intero-neovim](https://github.com/parsonsmatt/intero-neovim) - A neovim plugin for Intero, forked from ghcmod-vim
-* [tpope/vim-dotenv](https://github.com/tpope/vim-dotenv) - dotenv.vim: Basic support for .env and Procfile
 * [ColemanGariety/toy-chest-theme](https://github.com/ColemanGariety/toy-chest-theme) - A fun color scheme.
+* [tpope/vim-dotenv](https://github.com/tpope/vim-dotenv) - dotenv.vim: Basic support for .env and Procfile
 * [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) - Adds text-objects for word-based columns in Vim.
 * [freeo/vim-kalisi](https://github.com/freeo/vim-kalisi) - The colorscheme with neovim in mind
 * [godlygeek/csapprox](https://github.com/godlygeek/csapprox) - Make gvim-only colorschemes work transparently in terminal vim
-* [jamis/fuzzyfinder_textmate](https://github.com/jamis/fuzzyfinder_textmate) - A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained now, see http://weblog.jamisbuck.org/2009/1/28/the-future-of-fuzzyfinder-textmate)
 * [Lokaltog/vim-distinguished](https://github.com/Lokaltog/vim-distinguished) - A dark vim color scheme for 256-color terminals.
 * [noahfrederick/vim-noctu](https://github.com/noahfrederick/vim-noctu) - A Vim color scheme for 16-color terminals
 * [ionide/Ionide-vim](https://github.com/ionide/Ionide-vim) - F# Vim plugin based on FsAutoComplete and LSP protocol
-* [Olical/vim-enmasse](https://github.com/Olical/vim-enmasse) - Edit every line in a quickfix list at the same time
+* [jamis/fuzzyfinder_textmate](https://github.com/jamis/fuzzyfinder_textmate) - A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained now, see http://weblog.jamisbuck.org/2009/1/28/the-future-of-fuzzyfinder-textmate)
+* [thinca/vim-ref](https://github.com/thinca/vim-ref) - Integrated reference viewer.
 * [direnv/direnv.vim](https://github.com/direnv/direnv.vim) - vim plugin for direnv support
 * [fast-ide/fast-ide](https://github.com/fast-ide/fast-ide) - 🕺Fast Integrated Development Environment 😻
-* [thinca/vim-ref](https://github.com/thinca/vim-ref) - Integrated reference viewer.
+* [Olical/vim-enmasse](https://github.com/Olical/vim-enmasse) - Edit every line in a quickfix list at the same time
 * [broqiang/vim-go-ide](https://github.com/broqiang/vim-go-ide) - Vim as the IDE for the go language 将 vim 打造成 go 语言的 ide
 * [greyblake/vim-preview](https://github.com/greyblake/vim-preview) - Vim plugin for previewing markup files(markdown,rdoc,textile,html)
 * [skanehira/preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Markdown preview plugin for Vim *(archived)*
@@ -742,38 +742,38 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [wuelnerdotexe/vim-astro](https://github.com/wuelnerdotexe/vim-astro) - Astro language (.astro files) indentation and syntax support in Vim or Neovim. 🚀🧑‍🚀✨
 * [camspiers/animate.vim](https://github.com/camspiers/animate.vim) - A Vim Window Animation Library
 * [aserebryakov/vim-todo-lists](https://github.com/aserebryakov/vim-todo-lists) - Vim plugin for TODO lists
-* [jooize/vim-colemak](https://github.com/jooize/vim-colemak) - Colemak key mappings for Vim. Consider using Coleremak instead.
 * [aonemd/kuroi.vim](https://github.com/aonemd/kuroi.vim) - A very dark colorscheme for Vim. JOIN THE DARK SIDE!
-* [gmarik/vimfiles](https://github.com/gmarik/vimfiles) - My Vim configuration
+* [jooize/vim-colemak](https://github.com/jooize/vim-colemak) - Colemak key mappings for Vim. Consider using Coleremak instead.
 * [msanders/cocoa.vim](https://github.com/msanders/cocoa.vim) - Vim plugin for Cocoa/Objective-C development. No longer actively developed. *(archived)*
 * [andreasvc/vim-256noir](https://github.com/andreasvc/vim-256noir) - A dark 256-color colorscheme for vim
+* [gmarik/vimfiles](https://github.com/gmarik/vimfiles) - My Vim configuration
 * [kana/vim-operator-user](https://github.com/kana/vim-operator-user) - Vim plugin: Define your own operator easily
 * [kien/tabman.vim](https://github.com/kien/tabman.vim) - Tab management for Vim
 * [mhinz/vim-janah](https://github.com/mhinz/vim-janah) - Vim colorscheme.
 * [pbrisbin/vim-colors-off](https://github.com/pbrisbin/vim-colors-off) - A no-color scheme for vim *(archived)*
-* [srstevenson/vim-picker](https://github.com/srstevenson/vim-picker) - Fuzzy picker for file, buffer, and tag navigation in Vim and Neovim. Lightweight and Unix-philosophy compliant. *(archived)*
 * [tpope/vim-salve](https://github.com/tpope/vim-salve) - salve.vim: static support for Leiningen and Boot
+* [srstevenson/vim-picker](https://github.com/srstevenson/vim-picker) - Fuzzy picker for file, buffer, and tag navigation in Vim and Neovim. Lightweight and Unix-philosophy compliant. *(archived)*
 * [jez/vim-superman](https://github.com/jez/vim-superman) - Read Unix man pages faster than a speeding bullet!
-* [devjoe/vim-codequery](https://github.com/devjoe/vim-codequery) - Search + Browse + Understand your code more efficiently.
 * [PeterRincker/vim-argumentative](https://github.com/PeterRincker/vim-argumentative) - Argumentative aids with manipulating and moving between function arguments.
+* [devjoe/vim-codequery](https://github.com/devjoe/vim-codequery) - Search + Browse + Understand your code more efficiently.
 * [nathangrigg/vim-beancount](https://github.com/nathangrigg/vim-beancount) - Vim ftplugin for beancount
 * [vimlab/split-term.vim](https://github.com/vimlab/split-term.vim) - Utilites around neovim's `:terminal`.
-* [cabellwg/exit-vim](https://github.com/cabellwg/exit-vim) - Vim plugin that exits Vim on startup
 * [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
+* [cabellwg/exit-vim](https://github.com/cabellwg/exit-vim) - Vim plugin that exits Vim on startup
 * [habamax/vim-asciidoctor](https://github.com/habamax/vim-asciidoctor) - Asciidoctor plugin for Vim
 * [bronson/vim-visual-star-search](https://github.com/bronson/vim-visual-star-search) - Start a * or # search from a visual block
 * [henrik/vim-indexed-search](https://github.com/henrik/vim-indexed-search) - Show "Match 123 of 456 /search term/" in Vim searches. By Yakov Lerner.
 * [rhysd/reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
+* [nvim-zh/better-escape.vim](https://github.com/nvim-zh/better-escape.vim) - A Vim/Neovim plugin for escaping insert mode without lagging.
+* [tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim) - :notebook: Display vim version numbers in docs
+* [wenlongche/SrcExpl](https://github.com/wenlongche/SrcExpl) - A (G)Vim plugin for exploring the source code definition(s) and contextual lines with a split window.
 * [xolox/vim-lua-ftplugin](https://github.com/xolox/vim-lua-ftplugin) - Lua file type plug-in for the Vim text editor
 * [bhurlow/vim-parinfer](https://github.com/bhurlow/vim-parinfer) - vim plugin to balance your parenthesis
 * [kana/vim-fakeclip](https://github.com/kana/vim-fakeclip) - Vim plugin: Provide pseudo "clipboard" registers
-* [krisajenkins/vim-pipe](https://github.com/krisajenkins/vim-pipe) - Send a vim buffer through a command and instantly see the output.
-* [nvim-zh/better-escape.vim](https://github.com/nvim-zh/better-escape.vim) - A Vim/Neovim plugin for escaping insert mode without lagging.
-* [sunaku/vim-shortcut](https://github.com/sunaku/vim-shortcut) - 💇 Discoverable & searchable shortcuts for (Neo)Vim
-* [tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim) - :notebook: Display vim version numbers in docs
-* [vv9k/vim-github-dark](https://github.com/vv9k/vim-github-dark) - A dark GitHub theme for Vim and NeoVim
-* [wenlongche/SrcExpl](https://github.com/wenlongche/SrcExpl) - A (G)Vim plugin for exploring the source code definition(s) and contextual lines with a split window.
 * [kana/vim-textobj-line](https://github.com/kana/vim-textobj-line) - Vim plugin: Text objects for the current line
+* [krisajenkins/vim-pipe](https://github.com/krisajenkins/vim-pipe) - Send a vim buffer through a command and instantly see the output.
+* [sunaku/vim-shortcut](https://github.com/sunaku/vim-shortcut) - 💇 Discoverable & searchable shortcuts for (Neo)Vim
+* [vv9k/vim-github-dark](https://github.com/vv9k/vim-github-dark) - A dark GitHub theme for Vim and NeoVim
 * [yssl/QFEnter](https://github.com/yssl/QFEnter) - Open a Quickfix item in a window you choose. (Vim plugin)
 * [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
 * [ollykel/v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim
@@ -781,14 +781,14 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [gabesoft/vim-ags](https://github.com/gabesoft/vim-ags) - Silver searcher plugin for vim
 * [imbue-ai/jupyter_ascending.vim](https://github.com/imbue-ai/jupyter_ascending.vim) - Vim plugin to interact with jupyter_ascending
 * [LunarWatcher/auto-pairs](https://github.com/LunarWatcher/auto-pairs) - Vim plugin, insert or delete brackets, parentheses, and quotes in pairs *(archived)*
-* [tpope/vim-apathy](https://github.com/tpope/vim-apathy) - apathy.vim: Set the 'path' option for miscellaneous file types
+* [tommybennett/algorithm-mnemonics](https://github.com/tommybennett/algorithm-mnemonics) - Algorithm Mnemonics: Increase Productivity with STL Algorithms
 * [adoy/vim-php-refactoring-toolbox](https://github.com/adoy/vim-php-refactoring-toolbox) - VIM Php Refactoring Toolbox
 * [bpowell/vim-android](https://github.com/bpowell/vim-android) - Vim plugin to do android development.
 * [derekwyatt/vim-fswitch](https://github.com/derekwyatt/vim-fswitch) - Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
 * [girishji/vimcomplete](https://github.com/girishji/vimcomplete) - Async autocompletion for Vim.
 * [PotatoesMaster/i3-vim-syntax](https://github.com/PotatoesMaster/i3-vim-syntax) - Vim syntax for i3 window manager config *(archived)*
 * [sgur/vim-editorconfig](https://github.com/sgur/vim-editorconfig) - Yet another EditorConfig (http://editorconfig.org) plugin for vim written in vimscript only *(archived)*
-* [tommybennett/algorithm-mnemonics](https://github.com/tommybennett/algorithm-mnemonics) - Algorithm Mnemonics: Increase Productivity with STL Algorithms
+* [tpope/vim-apathy](https://github.com/tpope/vim-apathy) - apathy.vim: Set the 'path' option for miscellaneous file types
 * [tweekmonster/django-plus.vim](https://github.com/tweekmonster/django-plus.vim) - :guitar: Improvements to the handling of Django related files in Vim
 * [vim-scripts/ZoomWin](https://github.com/vim-scripts/ZoomWin) - Zoom in/out of windows (toggle between one window and multi-window)
 * [donRaphaco/neotex](https://github.com/donRaphaco/neotex) - latex live preview - plugin for neovim and vim 8 *(archived)*
@@ -799,45 +799,45 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [kingofctrl/vim.cpp](https://github.com/kingofctrl/vim.cpp) - :four_leaf_clover: Building vim editor in Linux into an effective C/C++ programming IDE, YouCompleteMe supported
 * [vim-scripts/paredit.vim](https://github.com/vim-scripts/paredit.vim) - Paredit Mode: Structured Editing of Lisp S-expressions
 * [vim-scripts/VimClojure](https://github.com/vim-scripts/VimClojure) - A filetype, syntax and indent plugin for Clojure
+* [yorickpeterse/vim-paper](https://github.com/yorickpeterse/vim-paper) - A light theme for (Neo)Vim, based on the colour of paper as found in various notebooks.
 * [ciaranm/detectindent](https://github.com/ciaranm/detectindent) - Vim script for automatically detecting indent settings
-* [gorkunov/smartpairs.vim](https://github.com/gorkunov/smartpairs.vim) - Enchanted visual (selection) mode for Vim
 * [skywind3000/vim-preview](https://github.com/skywind3000/vim-preview) - The missing preview window for vim
+* [xero/evangelion.nvim](https://github.com/xero/evangelion.nvim) - a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports diagnostics, cmp, fzf, gitsigns, lazy, lsp, lualine, telescope, treesitter, trouble, which-key, & more.
+* [gorkunov/smartpairs.vim](https://github.com/gorkunov/smartpairs.vim) - Enchanted visual (selection) mode for Vim
 * [leafOfTree/vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin) - Vim syntax and indent plugin for .vue files
 * [luan/vimfiles](https://github.com/luan/vimfiles) - The Vim Configuration. Uses vim-plug to manage plugins. *(archived)*
+* [alker0/chezmoi.vim](https://github.com/alker0/chezmoi.vim) - Highlight dotfiles you manage with chezmoi.
 * [flrnd/candid.vim](https://github.com/flrnd/candid.vim) - A dark colorscheme with vibrant colors
 * [gpanders/vim-medieval](https://github.com/gpanders/vim-medieval) - Evaluate Markdown code blocks within Vim
-* [xero/evangelion.nvim](https://github.com/xero/evangelion.nvim) - a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports diagnostics, cmp, fzf, gitsigns, lazy, lsp, lualine, telescope, treesitter, trouble, which-key, & more.
-* [alker0/chezmoi.vim](https://github.com/alker0/chezmoi.vim) - Highlight dotfiles you manage with chezmoi.
-* [martinda/Jenkinsfile-vim-syntax](https://github.com/martinda/Jenkinsfile-vim-syntax) - Jenkinsfile DSL vim syntax
-* [rstacruz/vim-coc-settings](https://github.com/rstacruz/vim-coc-settings) - My Vim settings for setting it up like an IDE
-* [yorickpeterse/vim-paper](https://github.com/yorickpeterse/vim-paper) - A light theme for (Neo)Vim, based on the colour of paper as found in various notebooks.
 * [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim) - Base16 for Vim
-* [MarsZ42/My-Vim-Conf](https://github.com/MarsZ42/My-Vim-Conf) - My vim setting file.
+* [rstacruz/vim-coc-settings](https://github.com/rstacruz/vim-coc-settings) - My Vim settings for setting it up like an IDE
+* [martinda/Jenkinsfile-vim-syntax](https://github.com/martinda/Jenkinsfile-vim-syntax) - Jenkinsfile DSL vim syntax
 * [rhysd/devdocs.vim](https://github.com/rhysd/devdocs.vim) - Open devdocs.io from Vim
+* [d2lang/d2-vim](https://github.com/d2lang/d2-vim) - The Vim plugin for D2 files
+* [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management for Neovim
+* [MarsZ42/My-Vim-Conf](https://github.com/MarsZ42/My-Vim-Conf) - My vim setting file.
+* [tribela/vim-transparent](https://github.com/tribela/vim-transparent) - Remove all background color on Vim
 * [kana/vim-textobj-indent](https://github.com/kana/vim-textobj-indent) - Vim plugin: Text objects for indented blocks of lines
 * [rhysd/github-complete.vim](https://github.com/rhysd/github-complete.vim) - Vim input completion for GitHub
-* [tribela/vim-transparent](https://github.com/tribela/vim-transparent) - Remove all background color on Vim
 * [vim-scripts/DoxygenToolkit.vim](https://github.com/vim-scripts/DoxygenToolkit.vim) - Simplify Doxygen documentation in C, C++, Python.
 * [4513ECHO/vim-colors-hatsunemiku](https://github.com/4513ECHO/vim-colors-hatsunemiku) - 💚 A vim colorscheme for 初音ミク/Hatsune Miku-san lovers
-* [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management for Neovim
 * [james9909/stackanswers.vim](https://github.com/james9909/stackanswers.vim) - Vim plugin to fetch and display answers from Stack Overflow
-* [xolox/vim-shell](https://github.com/xolox/vim-shell) - Improved integration between Vim and its environment (fullscreen, open URL, background command execution)
 * [blueshirts/darcula](https://github.com/blueshirts/darcula) - VIM Darcula Theme
-* [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
 * [josethoz/neovim-like-vscode](https://github.com/josethoz/neovim-like-vscode) - This is a public repo, that contains some settings and plugins that allows you to use NeoVim like Visual Studio Code.
+* [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
+* [xolox/vim-shell](https://github.com/xolox/vim-shell) - Improved integration between Vim and its environment (fullscreen, open URL, background command execution)
 * [liuchengxu/space-vim-theme](https://github.com/liuchengxu/space-vim-theme) - :blossom: A dark and light colorscheme for space-vim that supports GUI & terminal
 * [tpope/vim-afterimage](https://github.com/tpope/vim-afterimage) - afterimage.vim: edit binary files by converting them to text equivalents
-* [d2lang/d2-vim](https://github.com/d2lang/d2-vim) - The Vim plugin for D2 files
+* [xero/sourcerer](https://github.com/xero/sourcerer) - read code like a wizard. a 16bit color scheme for hackers
 * [haya14busa/vim-operator-flashy](https://github.com/haya14busa/vim-operator-flashy) - :flashlight: Highlight yanked area
 * [mboughaba/i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
 * [parkr/vim-jekyll](https://github.com/parkr/vim-jekyll) - :memo: Fork of psykidellic/vim-jekyll because actually forking it freaks out
+* [rescript-lang/vim-rescript](https://github.com/rescript-lang/vim-rescript)
 * [tinted-theming/tinted-vim](https://github.com/tinted-theming/tinted-vim) - tinted-vim refreshes and commits new themes weekly automatically and has a documented build process.
-* [xero/sourcerer](https://github.com/xero/sourcerer) - read code like a wizard. a 16bit color scheme for hackers
+* [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) - Modern fuzzy finder for Vim with minimal dependencies
 * [google/vim-jsonnet](https://github.com/google/vim-jsonnet) - Jsonnet filetype plugin for Vim. *(archived)*
 * [jeetsukumaran/vim-filebeagle](https://github.com/jeetsukumaran/vim-filebeagle) - A VINE-spired (Vim Is Not Emacs) file system explorer.
 * [koron/vim-kaoriya](https://github.com/koron/vim-kaoriya) - Vim+kaoriya build system
-* [rescript-lang/vim-rescript](https://github.com/rescript-lang/vim-rescript)
-* [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) - Modern fuzzy finder for Vim with minimal dependencies
 * [zhimsel/vim-stay](https://github.com/zhimsel/vim-stay) - Make Vim persist editing state without fuss
 * [amiorin/vim-project](https://github.com/amiorin/vim-project) - lcd to the root of the project everytime you BufEnter a file inside a project.
 * [jebaum/vim-tmuxify](https://github.com/jebaum/vim-tmuxify) - Vim plugin for handling tmux panes.
@@ -860,8 +860,8 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [mrbeardad/SpaceVim](https://github.com/mrbeardad/SpaceVim) - 基于SpaceVim的真正开箱即用、无需配置的IDE，你只需要记住快捷键即可。（目前默认支持C/C++、Go、Python、Shell、Markdown、VimL） *(archived)*
 * [sbl/scvim](https://github.com/sbl/scvim) - vim plugin for supercollider
 * [ivalkeen/vim-ctrlp-tjump](https://github.com/ivalkeen/vim-ctrlp-tjump) - CtrlP extension for fuzzy-search in tag matches (:tjump replacement).
-* [powerman/vim-plugin-viewdoc](https://github.com/powerman/vim-plugin-viewdoc) - Vim plugin: flexible viewer for any documentation
 * [svermeulen/vim-macrobatics](https://github.com/svermeulen/vim-macrobatics) - Plugin for Vim that makes it easier to record / play / edit macros
+* [powerman/vim-plugin-viewdoc](https://github.com/powerman/vim-plugin-viewdoc) - Vim plugin: flexible viewer for any documentation
 * [EinfachToll/DidYouMean](https://github.com/EinfachToll/DidYouMean) - Vim plugin which asks for the right file to open
 * [soywod/unfog.vim](https://github.com/soywod/unfog.vim) - ⏱ Vim plugin for Unfog CLI task & time manager.
 * [takac/vim-spotifysearch](https://github.com/takac/vim-spotifysearch) - Search spotify in Vim and play songs. *(archived)*
@@ -1062,8 +1062,8 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [exvim/main](https://github.com/exvim/main) - This is the main repository for exVim!
 * [ctaylo21/jarvis](https://github.com/ctaylo21/jarvis) - Dotfiles for a powerful, web development-focused environment powered by Neovim, iTerm2, tmux, and zsh
 * [int32bit/dotfiles](https://github.com/int32bit/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
-* [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 * [zaiste/vimified](https://github.com/zaiste/vimified) - Yet another Vim configuration
+* [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 * [mutewinter/dot_vim](https://github.com/mutewinter/dot_vim) - My 14 Year-Old (Neo)Vim Configuration
 * [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - My personal dotfiles (how do these have so many stars?) *(archived)*
 * [tpope/dotfiles](https://github.com/tpope/dotfiles) - tpope's dotfiles. DON'T USE unless you're tpope
@@ -1084,8 +1084,8 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM
 * [fatso83/dotfiles](https://github.com/fatso83/dotfiles) - Cross-platform dotfiles shared by macOS and Linux (native and WSL2)
 * [tlhunter/vimrc](https://github.com/tlhunter/vimrc) - Opinionated VIM Configuration
-* [jdah/dotfiles](https://github.com/jdah/dotfiles) - some of my configs
 * [bahamas10/dotfiles](https://github.com/bahamas10/dotfiles) - My configuration files
+* [jdah/dotfiles](https://github.com/jdah/dotfiles) - some of my configs
 * [sjl/dotfiles](https://github.com/sjl/dotfiles) - A git mirror of my dotfiles (.vimrc, .zshrc, .hgrc, etc). Note: this won't work on its own because the real repo uses Mercurial's subrepos. Look at .hgsub and .hgsubstate for what you'll need to get.
 * [cypher/dotfiles](https://github.com/cypher/dotfiles) - My Dotfiles
 * [michaeljsmalley/dotfiles](https://github.com/michaeljsmalley/dotfiles) - My dotfiles
@@ -1097,7 +1097,7 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [mattjmorrison/jarrod-taylor-made-dotfiles](https://github.com/mattjmorrison/jarrod-taylor-made-dotfiles) - Dotfiles and an install script for easy set up
 * [JJGO/dotfiles](https://github.com/JJGO/dotfiles)
 * [jferris/config_files](https://github.com/jferris/config_files) - My config files (aka dotfiles)
-* [aam1r/sachet](https://github.com/aam1r/sachet) - Handcraft your development environment
+* [aam1r/sachet](https://github.com/aam1r/sachet) - Handcraft your development environment *(archived)*
 * [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - My personal dotfiles, about neovim, zsh shell, tmux...
 * [BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles) - My configuration files and personal collection of scripts.
 * [tomasr/dotfiles](https://github.com/tomasr/dotfiles) - My personal dotfiles for vim, powershell, bash and other tools
@@ -1204,6 +1204,8 @@ A curated list of awesome Vim frameworks, libraries and software.
 * [cosminadrianpopescu/vim-sql-workbench](https://github.com/cosminadrianpopescu/vim-sql-workbench) - SQL For Vim (provides access from VIM to any DBMS, like dbext)
 * [skanehira/docker.vim](https://github.com/skanehira/docker.vim) - Manage docker images, containers in Vim *(archived)*
 * [martingms/vipsql](https://github.com/martingms/vipsql) - A vim-frontend for interacting with psql
+* [ErichDonGubler/vim-sublime-monokai](https://github.com/ErichDonGubler/vim-sublime-monokai) - Vim Monokai color scheme that tries to be as faithful as possible to Sublime's Monokai syntax highlighting
+* [tobyS/pdv](https://github.com/tobyS/pdv) - PHP Documentor for VIM - Generates PHP docblocks
 * [spicycode/Vimlander-2-The-Quickening](https://github.com/spicycode/Vimlander-2-The-Quickening) - A cataclysm has occured *(archived)*
 * [dahu/vim-type-datetime](https://github.com/dahu/vim-type-datetime) - Date/Time Objects for VimL
 * [tetsuwo/unchi.vim](https://github.com/tetsuwo/unchi.vim) - VimL test
